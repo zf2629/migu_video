@@ -1,0 +1,30 @@
+version: '1.0'
+name: tt
+displayName: tt
+triggers:
+  trigger: auto
+  schedule:
+    - cron: '* 0 */3 * * ? *'
+image: node:18 # 使用 Node.js 基础镜像
+stages:
+  - run
+  - commit
+run:
+  stage: run
+  script:
+    - echo "安装依赖..."
+    - npm install
+    - echo "执行 Node.js 脚本..."
+    - node fetchURLByWasm.js
+    - echo "脚本执行完成，查看文件变化..."
+    - git status
+commit:
+  stage: commit
+  script:
+    - echo "配置 Git 用户信息..."
+    - git config --global user.name "Gitee 流水线"
+    - git config --global user.email "pipeline@gitee.com"
+    - echo "检查是否有文件变更..."
+    - if [ -n "$(git status --porcelain)" ]; then echo "有文件变更，准备提交..."; git add .; git commit -m "流水线自动提交 $(date +'%Y-%m-%d %H:%M:%S')"; git push https://${TOKEN}@gitee.com/${GITEE_REPO}.git HEAD:${GITEE_BRANCH}; else echo "没有文件变更，跳过提交"; fi
+  only:
+    - main # 只在 main 分支触发，可根据需要修改
