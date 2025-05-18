@@ -2,9 +2,9 @@ version: '1.0'
 name: fetch
 displayName: fetch
 triggers:
-  trigger: manual
+  trigger: auto
   schedule:
-    - cron: '* 45 6 * * ? *'
+    - cron: '* 55 6 * * ? *'
 variables:
   global:
     - TOKEN
@@ -13,8 +13,7 @@ stages:
     displayName: installdeps
     strategy: naturally
     trigger: auto
-    executor:
-      - dream-deve
+    executor: []
     steps:
       - step: build@nodejs
         name: fetchurl
