@@ -20,40 +20,15 @@ stages:
         commands:
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
-          - ''
           - '# 执行编译命令'
-          - npm ci
-        notify: []
-        strategy:
-          retry: '0'
-          timeout: 2
-  - name: fetchurl
-    displayName: fetchurl
-    strategy: naturally
-    trigger: auto
-    executor: []
-    steps:
-      - step: build@nodejs
-        name: fetch_url
-        displayName: fetch url
-        nodeVersion: 21.5.0
-        commands:
+          - npm i
           - node fetchURLByWasm.js
-        notify: []
         strategy:
           retry: '0'
-          timeout: 3
-  - name: push
-    displayName: push
-    strategy: naturally
-    trigger: auto
-    executor:
-      - dream-deve
-    steps:
-      - step: build@nodejs
+          timeout: 4
+      - step:
         name: push_repo
-        displayName: push repo
-        nodeVersion: 21.5.0
+        displayName: push_repo
         commands:
           - '# actions提交'
           - git config user.name "Gitee Actions"
@@ -62,7 +37,6 @@ stages:
           - git add .
           - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee Actions"
           - git push
-        notify: []
         strategy:
           retry: '0'
           timeout: 1
