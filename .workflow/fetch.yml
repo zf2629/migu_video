@@ -26,7 +26,7 @@ stages:
           - git config user.email "actions@githee.com"
           - git add .
           - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线"
-          - git push
+          - git push https://${TOKEN}@gitee.com/dream/migu_video.git HEAD:main;
         caches: []
         notify: []
         strategy:
