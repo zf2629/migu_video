@@ -25,9 +25,10 @@ stages:
         strategy:
           retry: '0'
           timeout: 4
-      - step:
+      - step: build@nodejs
         name: push_repo
         displayName: push_repo
+        nodeVersion: 21.5.0
         commands:
           - '# actions提交'
           - git config user.name "Gitee Actions"
