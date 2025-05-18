@@ -4,7 +4,7 @@ displayName: fetch
 triggers:
   trigger: auto
   schedule:
-    - cron: '* 8 19 * * ? *'
+    - cron: '* 9 19 * * ? *'
 variables:
   global:
     - TOKEN
