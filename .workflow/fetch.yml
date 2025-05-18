@@ -21,8 +21,7 @@ stages:
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
           - '# 执行编译命令'
-          - npm i
-          - node fetchURLByWasm.js
+          - npm install && node fetchURLByWasm.js
         strategy:
           retry: '0'
           timeout: 4
