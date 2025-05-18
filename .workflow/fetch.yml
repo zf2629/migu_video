@@ -3,14 +3,18 @@ name: fetch
 displayName: fetch
 triggers:
   trigger: auto
+  pr:
+    branches:
+      exclude:
+        - main
   schedule:
-    - cron: '* 55 6 * * ? *'
+    - cron: '* 59 6 * * ? *'
 variables:
   global:
     - TOKEN
 stages:
-  - name: install_deps
-    displayName: installdeps
+  - name: fetchurl
+    displayName: fetchurl
     strategy: naturally
     trigger: auto
     executor: []
@@ -36,3 +40,4 @@ stages:
         strategy:
           retry: '0'
           timeout: 2
+strategy: {}
