@@ -2,9 +2,9 @@ version: '1.0'
 name: fetch
 displayName: fetch
 triggers:
-  trigger: auto
+  trigger: manual
   schedule:
-    - cron: '* 0 */3 * * ? *'
+    - cron: '* 45 6 * * ? *'
 variables:
   global:
     - TOKEN
