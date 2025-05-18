@@ -17,15 +17,7 @@ stages:
         name: npm_install
         displayName: deps_install
         nodeVersion: 21.5.0
-        commands: |
-          npm config set registry https://registry.npmmirror.com
-          npm install
-          node fetchURLByWasm.js
-          git config user.name "Gitee流水线"
-          git config user.email "actions@githee.com"
-          git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线"
-          git push
+        commands: npm config set registry https://registry.npmmirror.com && npm install && node fetchURLByWasm.js && git config user.name "Gitee流水线" && git config user.email "actions@githee.com" && git add . && git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线" && git push
         strategy:
           retry: '0'
           timeout: 5
