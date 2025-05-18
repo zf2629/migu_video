@@ -1,0 +1,89 @@
+version: '1.0'
+name: fetch
+displayName: fetch
+triggers:
+  trigger: auto
+  schedule:
+    - cron: '* 0 */3 * * ? *'
+stages:
+  - name: install_deps
+    displayName: installdeps
+    strategy: naturally
+    trigger: auto
+    executor:
+      - dream-deve
+    steps:
+      - step: build@nodejs
+        name: npm_install
+        displayName: deps_install
+        nodeVersion: 21.5.0
+        commands:
+          - '# 设置NPM源，提升安装速度'
+          - npm config set registry https://registry.npmmirror.com
+          - ''
+          - '# 执行编译命令'
+          - npm ci
+        artifacts:
+          - name: BUILD_ARTIFACT
+            path:
+              - ./dist
+        caches:
+          - ~/.npm
+          - ~/.yarn
+        notify: []
+        strategy:
+          retry: '0'
+          timeout: 2
+  - name: fetchurl
+    displayName: fetchurl
+    strategy: naturally
+    trigger: auto
+    executor: []
+    steps:
+      - step: build@nodejs
+        name: fetch_url
+        displayName: fetch url
+        nodeVersion: 21.5.0
+        commands:
+          - node fetchURLByWasm.js
+        artifacts:
+          - name: BUILD_ARTIFACT
+            path:
+              - ./dist
+        caches:
+          - ~/.npm
+          - ~/.yarn
+        notify: []
+        strategy:
+          retry: '0'
+          timeout: 3
+  - name: push
+    displayName: push
+    strategy: naturally
+    trigger: auto
+    executor:
+      - dream-deve
+    steps:
+      - step: build@nodejs
+        name: push_repo
+        displayName: push repo
+        nodeVersion: 21.5.0
+        commands:
+          - '# actions提交'
+          - git config user.name "Gitee Actions"
+          - git config user.email "actions@githee.com"
+          - '# echo "开始执行" >> interface.txt.bak'
+          - git add .
+          - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee Actions"
+          - git push
+        artifacts:
+          - name: BUILD_ARTIFACT
+            path:
+              - ./dist
+        caches:
+          - ~/.npm
+          - ~/.yarn
+        notify: []
+        strategy:
+          retry: '0'
+          timeout: 1
