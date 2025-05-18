@@ -1,0 +1,47 @@
+name: fetch
+on:
+  workflow_dispatch:
+  # push:
+  schedule:
+    - cron: 0 4-22/3 * * *
+jobs:
+  run:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 22
+      # - name: 测试网络
+      #   run: sudo bash proxy.sh
+      #   run: |
+      #     wget https://m.miguvideo.com/m/liveDetail/651632657?channelId=10010001005
+      #     cat 651632657\?channelId=10010001005
+      #     whoami
+      #     wget "https://h5live.gslb.cmvideo.cn/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=c1c19c14-58ef-41ed-9387-5139dfd8ebe6&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250503100520&Channel_ID=0131_200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=2408:8214:8222:b4c0:f485:519f:640a:d7cc&SecurityKey=20250503100520&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.4.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&puData=4175754f84f2e5e83472f1eaa6fcdfae&ddCalcu=e4a1zf7yd5yc7wf564afa8e41ff22e754e38&sv=10000&crossdomain=www&ct=h5"
+      #     cat index.m3u8*
+      # - name: clone clash
+      #   run: git clone https://github.com/Elegycloud/clash-for-linux-backup.git
+      # - name: update clash config
+      #   run: |
+      #     echo "export CLASH_URL='${{secrets.URL}}'" > clash-for-linux/.env
+      #     echo "export CLASH_SECRET=''" >> clash-for-linux-backup/.env
+      # - name: open proxy
+      #   run: |
+      #     bash clash-for-linux-backup/start.sh
+      #     source clash.sh
+      #     proxy_on
+      - run: npm ci
+      - run: node fetchURLByWasm.js
+      - name: Push to repository
+        run: |
+          # actions自动提交
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          # echo "开始执行" >> interface.txt.bak
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update by GitHub Actions"
+          git push
+    # - name: close proxy
+    #   run: proxy_off
