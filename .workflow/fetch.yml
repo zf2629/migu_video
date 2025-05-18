@@ -14,8 +14,8 @@ stages:
       - dream-deve
     steps:
       - step: build@nodejs
-        name: npm_install
-        displayName: deps_install
+        name: fetchurl
+        displayName: fetchurl
         nodeVersion: 21.5.0
         commands:
           - npm config set registry https://registry.npmmirror.com
