@@ -5,6 +5,9 @@ triggers:
   trigger: auto
   schedule:
     - cron: '* 0 */3 * * ? *'
+variables:
+  global:
+    - TOKEN
 stages:
   - name: install_deps
     displayName: installdeps
@@ -21,7 +24,6 @@ stages:
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
           - '# 执行编译命令 '
-          # - npm install && node fetchURLByWasm.js
           - echo "测试" > interface.txt.bak
           - cat interface.txt.bak
           - git config user.name "Gitee流水线"
