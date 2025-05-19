@@ -3,12 +3,12 @@ name: fetch
 displayName: fetch
 triggers:
   trigger: auto
-  pr:
+  push:
     branches:
       precise:
         - main
   schedule:
-    - cron: '* 0 */3 * * ? *'
+    - cron: '* */1 * * * ? *'
 variables:
   global:
     - TOKEN
@@ -23,6 +23,8 @@ stages:
         displayName: fetchurl
         nodeVersion: 21.5.0
         commands:
+          - git clone https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git
+          - cd migu_video
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
           - '# 执行编译命令 '
@@ -32,8 +34,7 @@ stages:
           - git add .
           - '# gitee流水线提交 '
           - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线"
-          - git remote set-url origin https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git
-          - git push -u origin main
+          - git push -f https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git main:main
         strategy:
           retry: '0'
           timeout: 2
