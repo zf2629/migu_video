@@ -3,11 +3,8 @@ name: fetch
 displayName: fetch
 triggers:
   trigger: auto
-  branches:
-    prefix:
-      - main
   schedule:
-    - cron: '* 26 7 * * ? *'
+    - cron: '* 1 */3 * * ? *'
 variables:
   global:
     - TOKEN
