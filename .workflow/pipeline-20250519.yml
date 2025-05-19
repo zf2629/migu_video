@@ -1,0 +1,26 @@
+version: '1.0'
+name: pipeline-20240822
+displayName: pipeline-20240822
+triggers:
+  trigger: auto
+  push:
+    branches:
+      precise:
+        - master
+  schedule:
+    - cron: '* 42 11 * * ? *'
+variables:
+  global:
+    - TOKEN_ID
+stages:
+  - name: compile
+    displayName: 编译
+    strategy: naturally
+    trigger: auto
+    steps:
+      - step: build@python
+        name: build_python
+        displayName: Python 构建
+        pythonVersion: '3.9'
+        commands:
+          - echo "hello world"
