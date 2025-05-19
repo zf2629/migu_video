@@ -3,7 +3,7 @@ name: fetch
 displayName: fetch
 triggers:
   trigger: auto
-  pr:
+  push:
     branches:
       precise:
         - main
@@ -32,8 +32,7 @@ stages:
           - git add .
           - '# gitee流水线提交 '
           - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线"
-          - git remote set-url origin https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git
-          - git push -u origin main
+          - git push -f https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git main:main
         strategy:
           retry: '0'
           timeout: 2
