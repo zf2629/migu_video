@@ -3,6 +3,10 @@ name: fetch
 displayName: fetch
 triggers:
   trigger: auto
+  pr:
+    branches:
+      precise:
+        - main
   schedule:
     - cron: '* */1 * * * ? *'
 variables:
