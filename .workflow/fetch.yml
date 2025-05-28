@@ -11,8 +11,8 @@ triggers:
     - cron: '* 0 */3 * * ? *'
 variables:
   global:
-    - TOKEN
     - GITHUB_TOKEN
+    - TOKEN
 stages:
   - name: fetchurl
     displayName: fetchurl
@@ -24,8 +24,8 @@ stages:
         displayName: fetchurl
         nodeVersion: 21.5.0
         commands:
-          - '# git clone https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git'
-          - git clone https://develop202:${GITHUB_TOKEN}@github.com/develop202/migu_video.git
+          - git clone https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git
+          - '# git clone https://develop202:${GITHUB_TOKEN}@github.com/develop202/migu_video.git'
           - cd migu_video
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
