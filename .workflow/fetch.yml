@@ -23,7 +23,8 @@ stages:
         displayName: fetchurl
         nodeVersion: 21.5.0
         commands:
-          - git clone https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git
+          - '# git clone https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git'
+          - git clone https://develop202:${GITHUB_TOKEN}@github.com/develop202/migu_video.git
           - cd migu_video
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
@@ -34,7 +35,8 @@ stages:
           - git add .
           - '# gitee流水线提交 '
           - git diff --quiet && git diff --staged --quiet || git commit -m "Update by Gitee流水线"
-          - git push -f https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git main:main
+          - '# git push -f https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git main:main'
+          - git push
         strategy:
           retry: '0'
           timeout: 2
