@@ -12,6 +12,7 @@ triggers:
 variables:
   global:
     - TOKEN
+    - GITHUB_TOKEN
 stages:
   - name: fetchurl
     displayName: fetchurl
