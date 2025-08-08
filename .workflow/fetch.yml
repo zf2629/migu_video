@@ -13,6 +13,8 @@ variables:
   global:
     - GITHUB_TOKEN
     - TOKEN
+    - MIGU_TOKEN
+    - USERID
 stages:
   - name: fetchurl
     displayName: fetchurl
@@ -30,7 +32,8 @@ stages:
           - '# 设置NPM源，提升安装速度'
           - npm config set registry https://registry.npmmirror.com
           - '# 执行编译命令 '
-          - npm install && node fetchURLByWasm.js
+          - '# npm install && node fetchURLByWasm.js'
+          - npm install && node fetchURLByAndroid.js
           - git config user.name "Gitee流水线"
           - git config user.email "actions@githee.com"
           - git add .
