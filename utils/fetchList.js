@@ -1,5 +1,12 @@
 import axios from "axios"
 
+// 睡眠
+function delay(ms) {
+  return new Promise(resolve => {
+    setTimeout(resolve, ms)
+  })
+}
+
 // 获取分类集合
 async function cate_list() {
   try {
@@ -46,4 +53,4 @@ async function getUrlInfo(contId) {
   }
 }
 
-export { cate_list, data_list, getUrlInfo }
+export { cate_list, data_list, getUrlInfo, delay }

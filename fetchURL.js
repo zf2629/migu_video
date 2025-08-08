@@ -1,14 +1,9 @@
 import fs from "fs"
-import { data_list } from "./utils/fetchList.js"
+import { delay } from "./utils/fetchList.js"
 import { close_browser, get_browser, get_page, get_url } from "./utils/getURL.js"
+import { channelName } from "./utils/datas.js"
 
-function delay(ms) {
-  return new Promise(resolve => {
-    setTimeout(resolve, ms)
-  })
-}
-
-async function fetch_url() {
+async function fetchURL() {
 
   // 必须绝对路径
   let path = process.cwd() + '/interface.txt'
@@ -38,7 +33,8 @@ async function fetch_url() {
     }
     console.log("文件清除成功")
   })
-  let datas = await data_list()
+  // let datas = await data_list()
+  const datas = channelName
   let browser = await get_browser(null)
   let page = await get_page(browser)
   for (let i = 0; i < datas.length; i++) {
@@ -86,4 +82,4 @@ async function fetch_url() {
   await close_browser(browser)
 }
 
-fetch_url()
+fetchURL()
