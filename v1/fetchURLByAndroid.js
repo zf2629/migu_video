@@ -1,6 +1,6 @@
 import fs from "fs"
 import { delay } from "./utils/fetchList.js"
-import { init_wasm } from "./utils/getddCalcuURL.js"
+import { initWasm } from "./utils/getddCalcuURL.js"
 import getAndroidVideoURL from "./utils/androidURL.js"
 import { channelName } from "./utils/datas.js"
 import refreshToken from "./utils/refreshToken.js"
@@ -22,22 +22,41 @@ async function fetchURLByAndroid() {
       console.log("文件创建成功")
     })
   }
-  await delay(100)
 
+  // aptv 必须绝对路径
+  const aptvPath = process.cwd() + '/interface-aptv.txt'
+  // 文件不存在则创建
+  if (!fs.existsSync(aptvPath)) {
+    fs.writeFile(aptvPath, "", error => {
+      if (error) {
+        throw new Error("文件创建失败")
+      }
+      console.log("文件创建成功")
+    })
+  }
   // 备份文件
-  fs.copyFile(path, path + ".bak", error => {
-    if (error) {
-      throw error
-    }
-    console.log("文件备份成功")
-  })
+  // fs.copyFile(path, path + ".bak", error => {
+  //   if (error) {
+  //     throw error
+  //   }
+  //   console.log("文件备份成功")
+  // })
 
-  await delay(100)
+  // await delay(100)
+  // 清除文件内容
   fs.writeFile(path, "", error => {
     if (error) {
       throw new Error("文件清除失败")
     }
     console.log("文件清除成功")
+  })
+
+  // 清除aptv文件内容
+  fs.writeFile(aptvPath, "", error => {
+    if (error) {
+      throw new Error("aptv文件清除失败")
+    }
+    console.log("aptv文件清除成功")
   })
 
   const rateDesc = ["", "", "标清", "高清", "蓝光"]
@@ -47,11 +66,19 @@ async function fetchURLByAndroid() {
     await refreshToken(userId, token) ? console.log("token刷新成功") : console.log("token刷新失败")
   }
   // 获取数据
-  // const datas = await data_list()
+  // const datas = await dataList()
   const datas = channelName
   // 获取加密方法
-  const exports = await init_wasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
+  const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
   // console.log("{")
+
+  // aptv写入开头
+  fs.appendFile(aptvPath, `#EXTM3U\n`, error => {
+    if (error) {
+      throw new Error("写入失败")
+    }
+  })
+
   // 分类列表
   for (let i = 0; i < datas.length; i++) {
     console.log(`正在写入分类###:${datas[i].cateName}`)
@@ -83,6 +110,12 @@ async function fetchURLByAndroid() {
         console.log(`正在写入节目:${data[j].name}$${rateDesc[resObj.rateType]}`)
         // 写入分类数据
         fs.appendFile(path, `${data[j].name},${resObj.url}$${rateDesc[resObj.rateType]}\n`, error => {
+          if (error) {
+            throw new Error("写入失败")
+          }
+        })
+        // 写入aptv分类数据
+        fs.appendFile(aptvPath, `#EXTINF:-1 svg-name="${data[j].name}" group-title="${datas[i].cateName}",${data[j].name}\n${resObj.url}\n`, error => {
           if (error) {
             throw new Error("写入失败")
           }

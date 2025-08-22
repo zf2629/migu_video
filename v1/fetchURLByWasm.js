@@ -1,7 +1,6 @@
 import fs from "fs"
-import { data_list, delay, getUrlInfo } from "./utils/fetchList.js"
-import { getEncryptURL, init_wasm } from "./utils/getddCalcuURL.js"
-import { channelName } from "./utils/datas.js"
+import { dataList, delay, getUrlInfo } from "./utils/fetchList.js"
+import { getEncryptURL, initWasm } from "./utils/getddCalcuURL.js"
 
 async function fetchURLByWasm() {
 
@@ -36,10 +35,10 @@ async function fetchURLByWasm() {
     console.log("文件清除成功")
   })
   // 所有数据
-  // let datas = await data_list()
-  const datas = channelName
+  let datas = await dataList()
+  // const datas = channelName
   // 获取加密方法
-  const exports = await init_wasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
+  const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
   // 写入分类
   for (let i = 0; i < datas.length; i++) {
     console.log("正在写入分类###:" + datas[i].name)

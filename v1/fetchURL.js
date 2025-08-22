@@ -33,7 +33,7 @@ async function fetchURL() {
     }
     console.log("文件清除成功")
   })
-  // let datas = await data_list()
+  // let datas = await dataList()
   const datas = channelName
   let browser = await get_browser(null)
   let page = await get_page(browser)

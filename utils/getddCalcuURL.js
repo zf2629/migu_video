@@ -45,7 +45,7 @@ function encrypt(videoURL, memoryView, getEncrypt) {
  * @param {string} masmURL - wasm地址
  * @returns {object} - wasm导出的内容
  */
-async function init_wasm(masmURL) {
+async function initWasm(masmURL) {
   // 获取wasm文件
   let resp = await fetch(masmURL);
   // 初始化
@@ -71,4 +71,4 @@ function getEncryptURL(exports, videoURL) {
   return encrypt(videoURL, memoryView, getEncrypt)
 }
 
-export { init_wasm, getEncryptURL }
+export { initWasm, getEncryptURL }

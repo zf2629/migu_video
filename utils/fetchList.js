@@ -8,14 +8,22 @@ function delay(ms) {
 }
 
 // 获取分类集合
-async function cate_list() {
+async function cateList() {
   try {
-    let resp = await axios.get("https://program-sc.miguvideo.com/live/v2/tv-data/a5f78af9d160418eb679a6dd0429c920")
+    const resp = await axios.get("https://program-sc.miguvideo.com/live/v2/tv-data/a5f78af9d160418eb679a6dd0429c920")
     let liveList = resp.data.body.liveList
-    // 印象天下没有内容
+    // 热门内容重复
     liveList = liveList.filter((item) => {
-      return item.name != "印象天下"
+      return item.name != "热门"
     })
+
+    // 央视作为首个分类
+    liveList.sort((a, b) => {
+      if (a.name === "央视") return -1;
+      if (b.name === "央视") return 1
+      return 0
+    })
+
     return liveList
   } catch (error) {
     throw error
@@ -23,14 +31,18 @@ async function cate_list() {
 }
 
 // 所有数据
-async function data_list() {
+async function dataList() {
   try {
-    let cates = await cate_list()
+    let cates = await cateList()
 
     for (let cate in cates) {
-      let resp = await axios.get("https://program-sc.miguvideo.com/live/v2/tv-data/" + cates[cate].vomsID)
+      const resp = await axios.get("https://program-sc.miguvideo.com/live/v2/tv-data/" + cates[cate].vomsID)
       cates[cate].dataList = resp.data.body.dataList;
     }
+
+    // 去除重复节目
+    cates = uniqueData(cates)
+    // console.dir(cates, { depth: null })
     // console.log(cates)
     return cates
   } catch (error) {
@@ -41,7 +53,7 @@ async function data_list() {
 // 获取电视链接
 async function getUrlInfo(contId) {
   try {
-    let resp = await axios.get(`https://webapi.miguvideo.com/gateway/playurl/v2/play/playurlh5?contId=${contId}&rateType=3&startPlay=true&xh265=false&channelId=0131_200300220100002`)
+    const resp = await axios.get(`https://webapi.miguvideo.com/gateway/playurl/v2/play/playurlh5?contId=${contId}&rateType=999&startPlay=true&xh265=false&channelId=0131_200300220100002`)
     // console.log(resp.data.body.urlInfo.url)
     // console.log(resp.data)
     if (resp.data?.body?.urlInfo?.url) {
@@ -53,4 +65,55 @@ async function getUrlInfo(contId) {
   }
 }
 
-export { cate_list, data_list, getUrlInfo, delay }
+// 对data的dataList去重
+function uniqueData(liveList) {
+
+  const allItems = []
+  // 提取全部dataList
+  liveList.forEach(category => {
+    category.dataList.forEach(program => {
+
+      allItems.push({
+        ...program,
+        categoryName: category.name
+      })
+    })
+
+  })
+
+  // 使用set确保唯一
+  const set = new Set()
+  // 保存唯一的数据
+  const uniqueItem = []
+
+  allItems.forEach(item => {
+    // set用来确定已经出现过
+    if (!set.has(item.name)) {
+      set.add(item.name)
+      uniqueItem.push(item)
+    }
+  })
+
+  const categoryMap = []
+
+  // 清空原dataList内容
+  liveList.forEach(live => {
+    live.dataList = []
+    categoryMap[live.name] = []
+  })
+
+  // 去除添加字段，根据分类填充内容
+  uniqueItem.forEach(item => {
+    const { categoryName, ...program } = item
+    categoryMap[categoryName].push(program)
+  })
+
+  // liveList赋值
+  liveList.forEach(live => {
+    live.dataList = categoryMap[live.name]
+  })
+
+  return liveList
+}
+
+export { cateList, dataList, getUrlInfo, delay }

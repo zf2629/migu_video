@@ -13,6 +13,10 @@ function encodeURLEncoder(str) {
 // 刷新token
 async function refreshToken(userId, token) {
 
+  if (userId == null || userId == undefined || token == null || token == undefined) {
+    return false
+  }
+
   // 请求体data加密前
   const time = Math.floor(Date.now() / 1000)
   const baseData = `{"userToken":"${token}","autoDelay":true,"deviceId":"","userId":"${userId}","timestamp":"${time}"}`

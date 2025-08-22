@@ -66,7 +66,7 @@ function replaceChars(url, pid, rateType) {
 }
 
 async function getAndroidVideoURL(userId, token, exports, pid, rateType) {
-  if (rateType <= 1 || rateType >= 5) {
+  if (rateType <= 1) {
     return {
       url: "",
       rateType: 0
