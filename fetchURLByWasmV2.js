@@ -1,6 +1,6 @@
 import fs from "fs"
 import { dataList, getUrlInfo } from "./utils/fetchList.js"
-import { getEncryptURL, initWasm } from "./utils/getddCalcuURL.js"
+import { getddCalcuURL } from "./utils/getddCalcuURL.js"
 
 async function fetchURLByWasm() {
 
@@ -50,7 +50,7 @@ async function fetchURLByWasm() {
   const datas = await dataList()
   // const datas = channelName
   // 获取加密方法
-  const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
+  // const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
 
 
   // aptv写入开头
@@ -83,7 +83,8 @@ async function fetchURLByWasm() {
         continue
       }
       // 加密链接
-      const link = getEncryptURL(exports, url)
+      // const link = getEncryptURL(exports, url)
+      const link = getddCalcuURL(url, data[j].pID, "h5", "999")
 
       console.log(`正在写入节目:${data[j].name}`)
       // 写入节目
@@ -94,7 +95,7 @@ async function fetchURLByWasm() {
       })
 
       // 写入节目aptv
-      fs.appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" group-title="${datas[i].name}",${data[j].name}\n${link}\n`, error => {
+      fs.appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${link}\n`, error => {
         if (error) {
           throw new Error("写入失败")
         }

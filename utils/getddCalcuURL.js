@@ -1,3 +1,22 @@
+const list = {
+  "h5": {
+    // 第11位字母
+    "keys": "yzwxcdabgh",
+    // 第5 8 14位字母对应下标0 1 3
+    "words": ['z', 'y', '0', 'w'],
+    // 第11位字母替换位置
+    "thirdReplaceIndex": 1,
+    // 加密后链接后缀
+    "suffix": "&sv=10000&ct=www"
+  },
+  "android": {
+    "keys": "cdabyzwxkl",
+    "words": ['x', 'a', '0', 'a'],
+    "thirdReplaceIndex": 6,
+    "suffix": "&sv=10004&ct=android"
+  }
+}
+
 const importObj = {
   a: {
     a: (a, b, c) => { },
@@ -71,4 +90,100 @@ function getEncryptURL(exports, videoURL) {
   return encrypt(videoURL, memoryView, getEncrypt)
 }
 
-export { initWasm, getEncryptURL }
+
+/**
+ * 获取ddCalcu
+ * 大致思路:把puData最后一个字符和第一个字符拼接，然后拼接倒数第二个跟第二个，一直循环，当第1 2 3 4次(从0开始)循环时需要插入特殊标识字符
+ * 特殊字符:四个特殊字符位置是第5 8 11 14，第5 8 14是根据平台确定的，且各个节目都一样。第11位在h5上是根据节目ID第1位(从0开始,android是第6位)数字为下标的某字符串的值
+ * 在android，标清画质还有区分，第5位字符需要修改，其他不变
+ * @param {string} puData - 服务器返回的那个东东
+ * @param {string} programId - 节目ID
+ * @param {string} clientType - 平台类型 h5 android
+ * @param {string} rateType - 清晰度 2:标清 3:高清 4:蓝光
+ * @returns {string} - ddCalcu
+ */
+function getddCalcu(puData, programId, clientType, rateType) {
+
+  if (puData == null || puData == undefined) {
+    return ""
+  }
+
+  if (programId == null || programId == undefined) {
+    return ""
+  }
+
+  if (clientType != "android" && clientType != "h5") {
+    return ""
+  }
+
+  if (rateType == null || rateType == undefined) {
+    return ""
+  }
+  let keys = list[clientType].keys
+  let words = list[clientType].words
+  const thirdReplaceIndex = list[clientType].thirdReplaceIndex
+  // android平台标清
+  if (clientType == "android" && rateType == "2") {
+    words[0] = "v"
+  }
+  puData = puData.split("");
+  keys = keys.split("")
+  const puDataLength = puData.length
+  programId = programId.split("")
+  let ddCalcu = []
+  for (let i = 0; i < puDataLength / 2; i++) {
+
+    ddCalcu.push(puData[puDataLength - i - 1])
+    ddCalcu.push(puData[i])
+    switch (i) {
+      case 1:
+        ddCalcu.push(words[i - 1])
+        break;
+      case 2:
+        ddCalcu.push(words[i - 1])
+        break;
+      case 3:
+        ddCalcu.push(keys[programId[thirdReplaceIndex]])
+        break;
+      case 4:
+        ddCalcu.push(words[i - 1])
+        break;
+    }
+  }
+  return ddCalcu.join("")
+}
+
+/**
+ * 加密链接
+ * @param {string} puDataURL - 加密前链接
+ * @param {string} programId - 节目ID
+ * @param {string} clientType - 客户端类型 h5 android
+ * @param {string} rateType - 清晰度 2:标清 3:高清 4:蓝光
+ * @returns {string} - 加密链接
+ */
+function getddCalcuURL(puDataURL, programId, clientType, rateType) {
+
+  if (puDataURL == null || puDataURL == undefined) {
+    return ""
+  }
+
+  if (programId == null || programId == undefined) {
+    return ""
+  }
+
+  if (clientType != "android" && clientType != "h5") {
+    return ""
+  }
+
+  if (rateType == null || rateType == undefined) {
+    return ""
+  }
+
+  const puData = puDataURL.split("&puData=")[1]
+  const ddCalcu = getddCalcu(puData, programId, clientType, rateType)
+  const suffix = list[clientType].suffix
+
+  return `${puDataURL}&ddCalcu=${ddCalcu}${suffix}`
+}
+
+export { initWasm, getEncryptURL, getddCalcuURL }

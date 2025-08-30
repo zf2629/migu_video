@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getStringMD5 } from "./EncryUtils.js";
-import { getEncryptURL } from "./getddCalcuURL.js";
+import { getddCalcuURL, getEncryptURL } from "./getddCalcuURL.js";
 import { changedDdCalcu } from "./datas.js";
 
 function getSaltAndSign(md5) {
@@ -129,4 +129,67 @@ async function getAndroidVideoURL(userId, token, exports, pid, rateType) {
 
 }
 
-export default getAndroidVideoURL
+
+/**
+ * @param {string} userId - 用户ID
+ * @param {string} token - 用户token
+ * @param {string} pid - 节目ID
+ * @param {number} rateType - 清晰度
+ * @returns {} - url: 链接 rateType: 清晰度
+ */
+async function getAndroidURL(userId, token, pid, rateType) {
+  if (rateType <= 1) {
+    return {
+      url: "",
+      rateType: 0
+    }
+  }
+  // 获取url
+  const timestramp = Date.now()
+  const appVersion = "26000370"
+  let headers = {
+    AppVersion: 2600037000,
+    TerminalId: "android",
+    "X-UP-CLIENT-CHANNEL-ID": "2600037000-99000-200300220100002"
+  }
+  if (rateType != 2) {
+    headers.UserId = userId
+    headers.UserToken = token
+  }
+  // console.log(headers)
+  const str = timestramp + pid + appVersion
+  const md5 = getStringMD5(str)
+  const result = getSaltAndSign(md5)
+
+  // 请求
+  const baseURL = "https://play.miguvideo.com/playurl/v1/play/playurl"
+  const params = "?sign=" + result.sign + "&rateType=" + rateType
+    + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + result.salt
+  const respData = await axios.get(baseURL + params, {
+    headers: headers
+  }).then(r => r.data)
+
+  // console.log(respData)
+  const url = respData.body.urlInfo?.url
+  // console.log(rateType)
+  // console.log(url)
+  if (!url) {
+    return {
+      url: "",
+      rateType: 0
+    }
+  }
+
+  rateType = respData.body.urlInfo?.rateType
+
+  // 将URL加密
+  const resURL = getddCalcuURL(url, pid, "android", rateType)
+
+  return {
+    url: resURL,
+    rateType: parseInt(rateType)
+  }
+
+}
+
+export { getAndroidVideoURL, getAndroidURL }

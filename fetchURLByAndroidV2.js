@@ -1,7 +1,6 @@
 import fs from "fs"
 import { dataList } from "./utils/fetchList.js"
-import { initWasm } from "./utils/getddCalcuURL.js"
-import getAndroidVideoURL from "./utils/androidURL.js"
+import { getAndroidURL } from "./utils/androidURL.js"
 import refreshToken from "./utils/refreshToken.js"
 
 async function fetchURLByAndroid() {
@@ -59,7 +58,7 @@ async function fetchURLByAndroid() {
   const datas = await dataList()
   // const datas = channelName
   // 获取加密方法
-  const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
+  // const exports = await initWasm("https://m.miguvideo.com/mgs/player/prd/v_20250506111629_ddc2c612/dist/pickproof1000.wasm")
   // console.log("{")
 
   // aptv写入开头
@@ -86,7 +85,8 @@ async function fetchURLByAndroid() {
       // console.log(data[j].pID)
 
       // 获取链接
-      const resObj = await getAndroidVideoURL(userId, token, exports, data[j].pID, 999)
+      // const resObj = await getAndroidVideoURL(userId, token, exports, data[j].pID, 999)
+      const resObj = await getAndroidURL(userId, token, data[j].pID, 999)
       if (resObj.url == "") {
         console.log(`${data[j].name}：节目调整，暂不提供服务`)
         continue
@@ -99,7 +99,7 @@ async function fetchURLByAndroid() {
         }
       })
       // aptv写入节目
-      fs.appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" group-title="${datas[i].cateName}",${data[j].name}\n${resObj.url}\n`, error => {
+      fs.appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${resObj.url}\n`, error => {
         if (error) {
           throw new Error("写入失败")
         }
