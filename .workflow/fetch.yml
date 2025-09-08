@@ -11,6 +11,7 @@ triggers:
     - cron: '* 0 */3 * * ? *'
 variables:
   global:
+    - GITHUB_TOKEN
     - TOKEN
 stages:
   - name: fetchurl
