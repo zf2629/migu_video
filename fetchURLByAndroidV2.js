@@ -23,7 +23,7 @@ async function fetchURLByAndroid() {
   const hours = date.getHours()
   let playbackFile = ""
   // 0点
-  if (hours) {
+  if (!hours) {
 
     playbackFile = process.cwd() + '/playback.xml'
     writeFile(playbackFile,
@@ -45,7 +45,7 @@ async function fetchURLByAndroid() {
     const data = datas[i].dataList
     // 写入节目
     for (let j = 0; j < data.length; j++) {
-      if (hours) {
+      if (!hours) {
         const res = await updatePlaybackData(data[j], playbackFile)
         if (!res) {
           console.log(`playback.xml更新失败`)
@@ -65,7 +65,7 @@ async function fetchURLByAndroid() {
     }
   }
 
-  if (hours) {
+  if (!hours) {
     appendFile(playbackFile, `</tv>\n`)
   }
   const end = Date.now()
