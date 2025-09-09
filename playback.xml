@@ -399,10 +399,10 @@
     <programme channel="CCTV4中文国际" start="20250909203000 +0800" stop="20250909210000 +0800">
         <title lang="zh">海峡两岸-2025-252</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250909210000 +0800" stop="20250909213000 +0800">
+    <programme channel="CCTV4中文国际" start="20250909210000 +0800" stop="20250909213600 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250909213000 +0800" stop="20250909220000 +0800">
+    <programme channel="CCTV4中文国际" start="20250909213600 +0800" stop="20250909220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20250909220000 +0800" stop="20250909223000 +0800">
@@ -1254,10 +1254,10 @@
     <programme channel="CCTV13新闻" start="20250909200300 +0800" stop="20250909210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250909210000 +0800" stop="20250909213000 +0800">
+    <programme channel="CCTV13新闻" start="20250909210000 +0800" stop="20250909213200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250909213000 +0800" stop="20250909220000 +0800">
+    <programme channel="CCTV13新闻" start="20250909213200 +0800" stop="20250909220000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250909220000 +0800" stop="20250909223000 +0800">
@@ -6568,7 +6568,7 @@
         <title lang="zh">盐城天气预报</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250909194400 +0800" stop="20250909213000 +0800">
-        <title lang="zh">电视剧</title>
+        <title lang="zh">梦中的那片海</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250909213000 +0800" stop="20250909214500 +0800">
         <title lang="zh">首播:家在盐城</title>
@@ -6640,10 +6640,10 @@
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250909193500 +0800" stop="20250909203200 +0800">
-        <title lang="zh">第一剧场</title>
+        <title lang="zh">第一剧场：太行英雄传</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250909203200 +0800" stop="20250909213000 +0800">
-        <title lang="zh">第一剧场</title>
+        <title lang="zh">第一剧场：太行英雄传</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250909213000 +0800" stop="20250909214700 +0800">
         <title lang="zh">淮安新闻联播(重播)</title>
@@ -6718,7 +6718,7 @@
         <title lang="zh">转中央台《新闻联播》</title>
     </programme>
     <programme channel="泰州新闻综合" start="20250909194000 +0800" stop="20250909212000 +0800">
-        <title lang="zh">电视剧</title>
+        <title lang="zh">孤战迷城</title>
     </programme>
     <programme channel="泰州新闻综合" start="20250909212000 +0800" stop="20250909215000 +0800">
         <title lang="zh">新闻夜班车(首播)</title>
@@ -6802,7 +6802,7 @@
         <title lang="zh">主播说天气</title>
     </programme>
     <programme channel="连云港新闻综合" start="20250909200500 +0800" stop="20250909213700 +0800">
-        <title lang="zh">电视剧</title>
+        <title lang="zh">火线三兄弟</title>
     </programme>
     <programme channel="连云港新闻综合" start="20250909213700 +0800" stop="20250909214000 +0800">
         <title lang="zh">天气预报</title>
@@ -6907,7 +6907,7 @@
         <title lang="zh">中央新闻联播</title>
     </programme>
     <programme channel="徐州新闻综合" start="20250909193600 +0800" stop="20250909212200 +0800">
-        <title lang="zh">情义剧场</title>
+        <title lang="zh">激战</title>
     </programme>
     <programme channel="徐州新闻综合" start="20250909212200 +0800" stop="20250909213000 +0800">
         <title lang="zh">天气预报</title>
@@ -7096,7 +7096,7 @@
         <title lang="zh">第1现场(首)</title>
     </programme>
     <programme channel="江阴新闻综合" start="20250909200400 +0800" stop="20250909213000 +0800">
-        <title lang="zh">第一剧场</title>
+        <title lang="zh">火线三兄弟</title>
     </programme>
     <programme channel="江阴新闻综合" start="20250909213000 +0800" stop="20250909215800 +0800">
         <title lang="zh">江阴新闻(重)</title>
@@ -7171,7 +7171,7 @@
         <title lang="zh">城市日历</title>
     </programme>
     <programme channel="南通新闻综合" start="20250909195000 +0800" stop="20250909213000 +0800">
-        <title lang="zh">黄金剧场</title>
+        <title lang="zh">火线三兄弟</title>
     </programme>
     <programme channel="南通新闻综合" start="20250909213000 +0800" stop="20250909220000 +0800">
         <title lang="zh">媒体大放送</title>
