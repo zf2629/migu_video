@@ -11,16 +11,11 @@ async function fetchURLByAndroid() {
 
   const date = new Date()
   const start = date.getTime()
-  // 必须绝对路径
-  const path = process.cwd() + '/interface.txt'
-
-  // 创建写入空内容
-  writeFile(path, "")
 
   // aptv 必须绝对路径
-  const aptvPath = process.cwd() + '/interface-aptv.txt'
+  const path = process.cwd() + '/interface.txt'
   // 创建写入空内容
-  writeFile(aptvPath, "")
+  writeFile(path, "")
 
   // 获取数据
   const datas = await dataList()
@@ -28,7 +23,7 @@ async function fetchURLByAndroid() {
   const hours = date.getHours()
   let playbackFile = ""
   // 0点
-  if (!hours) {
+  if (hours) {
 
     playbackFile = process.cwd() + '/playback.xml'
     writeFile(playbackFile,
@@ -39,20 +34,18 @@ async function fetchURLByAndroid() {
     await refreshToken(userId, token) ? console.log("token刷新成功") : console.log("token刷新失败")
   }
 
-  // aptv写入开头
+  // 写入开头
   // appendFile(aptvPath, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
-  appendFile(aptvPath, `#EXTM3U x-tvg-url="https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+  appendFile(path, `#EXTM3U x-tvg-url="https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
 
   // 分类列表
   for (let i = 0; i < datas.length; i++) {
-    console.log(`正在写入分类###:${datas[i].name}`)
-    // 写入分类
-    appendFile(path, `${datas[i].name},#genre#\n`)
+    console.log(`分类###:${datas[i].name}`)
 
     const data = datas[i].dataList
     // 写入节目
     for (let j = 0; j < data.length; j++) {
-      if (!hours) {
+      if (hours) {
         const res = await updatePlaybackData(data[j], playbackFile)
         if (!res) {
           console.log(`playback.xml更新失败`)
@@ -66,15 +59,13 @@ async function fetchURLByAndroid() {
         continue
       }
       console.log(`正在写入节目:${data[j].name}`)
-      // 写入节目
-      appendFile(path, `${data[j].name},${resObj.url}\n`)
 
-      // aptv写入节目
-      appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" svg-name="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${resObj.url}\n`)
+      // 写入节目
+      appendFile(path, `#EXTINF:-1 svg-id="${data[j].name}" svg-name="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${resObj.url}\n`)
     }
   }
 
-  if (!hours) {
+  if (hours) {
     appendFile(playbackFile, `</tv>\n`)
   }
   const end = Date.now()

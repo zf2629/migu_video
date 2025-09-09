@@ -8,16 +8,11 @@ async function fetchURLByH5() {
 
   const date = new Date()
   const start = date.getTime()
-  // 必须绝对路径
-  const path = process.cwd() + '/interface.txt'
-
-  // 创建写入空内容
-  writeFile(path, "")
 
   // aptv 必须绝对路径
-  const aptvPath = process.cwd() + '/interface-aptv.txt'
+  const path = process.cwd() + '/interface.txt'
   // 创建写入空内容
-  writeFile(aptvPath, "")
+  writeFile(path, "")
 
   // 所有数据
   const datas = await dataList()
@@ -31,14 +26,12 @@ async function fetchURLByH5() {
       `<?xml version="1.0" encoding="UTF-8"?>\n` +
       `<tv generator-info-name="Tak" generator-info-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml">\n`)
   }
-  // aptv写入开头
-  appendFile(aptvPath, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+  // 写入开头
+  appendFile(path, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
 
   // 写入分类
   for (let i = 0; i < datas.length; i++) {
-    console.log(`正在写入分类###:${datas[i].name}`)
-    // 写入分类
-    appendFile(path, `${datas[i].name},#genre#\n`)
+    console.log(`分类###:${datas[i].name}`)
 
     const data = datas[i].dataList
 
@@ -64,10 +57,7 @@ async function fetchURLByH5() {
       console.log(`正在写入节目:${data[j].name}`)
 
       // 写入节目
-      appendFile(path, `${data[j].name},${link}\n`)
-
-      // aptv写入节目
-      appendFile(aptvPath, `#EXTINF:-1 svg-id="${data[j].name}" svg-name="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${link}\n`)
+      appendFile(path, `#EXTINF:-1 svg-id="${data[j].name}" svg-name="${data[j].name}" tvg-logo="${data[j].pics.highResolutionH}" group-title="${datas[i].name}",${data[j].name}\n${link}\n`)
     }
   }
   if (!hours) {
