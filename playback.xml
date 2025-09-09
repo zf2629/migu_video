@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Tak" generator-info-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml">
+<tv generator-info-name="Tak" generator-info-url="https://github.com/develop202/migu_video/blob/main/playback.xml">
     <channel id="CCTV1综合">
         <display-name lang="zh">CCTV1综合</display-name>
     </channel>
@@ -6225,101 +6225,62 @@
     <programme channel="江苏教育" start="20250909060500 +0800" stop="20250909061200 +0800">
         <title lang="zh">江南文脉</title>
     </programme>
-    <programme channel="江苏教育" start="20250909061200 +0800" stop="20250909073100 +0800">
+    <programme channel="江苏教育" start="20250909061200 +0800" stop="20250909061500 +0800">
         <title lang="zh">一站到底</title>
     </programme>
-    <programme channel="江苏教育" start="20250909073100 +0800" stop="20250909081200 +0800">
-        <title lang="zh">勇者大冲关</title>
+    <programme channel="江苏教育" start="20250909061500 +0800" stop="20250909063600 +0800">
+        <title lang="zh">重温经典  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909081200 +0800" stop="20250909082000 +0800">
-        <title lang="zh">一站到底</title>
+    <programme channel="江苏教育" start="20250909063600 +0800" stop="20250909073500 +0800">
+        <title lang="zh">一站到底  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909082000 +0800" stop="20250909084000 +0800">
-        <title lang="zh">江苏教育新闻</title>
+    <programme channel="江苏教育" start="20250909073500 +0800" stop="20250909081200 +0800">
+        <title lang="zh">勇者大冲关  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909084000 +0800" stop="20250909091800 +0800">
-        <title lang="zh">奇趣大自然</title>
+    <programme channel="江苏教育" start="20250909081200 +0800" stop="20250909091400 +0800">
+        <title lang="zh">传承人精选  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909091800 +0800" stop="20250909100900 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="江苏教育" start="20250909091400 +0800" stop="20250909113100 +0800">
+        <title lang="zh"> 炮神（16-18）  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909100900 +0800" stop="20250909113200 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="江苏教育" start="20250909113100 +0800" stop="20250909122100 +0800">
+        <title lang="zh">抗日战争启示录（2）  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909113200 +0800" stop="20250909113700 +0800">
-        <title lang="zh">微讲堂</title>
+    <programme channel="江苏教育" start="20250909122100 +0800" stop="20250909133900 +0800">
+        <title lang="zh">雪豹坚强岁月（33-34）  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909113700 +0800" stop="20250909120000 +0800">
-        <title lang="zh">江南文脉</title>
+    <programme channel="江苏教育" start="20250909133900 +0800" stop="20250909141400 +0800">
+        <title lang="zh">传承人精选  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909120000 +0800" stop="20250909122000 +0800">
-        <title lang="zh">江苏教育新闻</title>
+    <programme channel="江苏教育" start="20250909141400 +0800" stop="20250909171200 +0800">
+        <title lang="zh">江湖正道（30-33）  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909122000 +0800" stop="20250909134000 +0800">
-        <title lang="zh">重温经典</title>
+    <programme channel="江苏教育" start="20250909171200 +0800" stop="20250909180000 +0800">
+        <title lang="zh">优秀文化节目展播  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909134000 +0800" stop="20250909140000 +0800">
-        <title lang="zh">传承人</title>
+    <programme channel="江苏教育" start="20250909180000 +0800" stop="20250909182200 +0800">
+        <title lang="zh">我们家  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909140000 +0800" stop="20250909141500 +0800">
-        <title lang="zh">凡事讲礼</title>
+    <programme channel="江苏教育" start="20250909182200 +0800" stop="20250909183500 +0800">
+        <title lang="zh">微讲堂  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909141500 +0800" stop="20250909150900 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909150900 +0800" stop="20250909161800 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909161800 +0800" stop="20250909171200 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909171200 +0800" stop="20250909172000 +0800">
-        <title lang="zh">百炼成钢</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909172000 +0800" stop="20250909172500 +0800">
-        <title lang="zh">微讲堂</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909172500 +0800" stop="20250909174000 +0800">
-        <title lang="zh">教育周刊</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909174000 +0800" stop="20250909180000 +0800">
-        <title lang="zh">未来科学家</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909180000 +0800" stop="20250909182300 +0800">
-        <title lang="zh">成长</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909182300 +0800" stop="20250909183100 +0800">
-        <title lang="zh">微讲堂</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909183100 +0800" stop="20250909191200 +0800">
-        <title lang="zh">勇者大冲关</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909191200 +0800" stop="20250909191500 +0800">
-        <title lang="zh">看天气</title>
+    <programme channel="江苏教育" start="20250909183500 +0800" stop="20250909191500 +0800">
+        <title lang="zh">勇者大冲关  </title>
     </programme>
     <programme channel="江苏教育" start="20250909191500 +0800" stop="20250909193000 +0800">
-        <title lang="zh">凡事讲礼</title>
+        <title lang="zh">无声的功勋  </title>
     </programme>
     <programme channel="江苏教育" start="20250909193000 +0800" stop="20250909195000 +0800">
-        <title lang="zh">江苏教育新闻</title>
+        <title lang="zh">江苏教育新闻  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909195000 +0800" stop="20250909202000 +0800">
-        <title lang="zh">奇趣大自然</title>
+    <programme channel="江苏教育" start="20250909195000 +0800" stop="20250909212100 +0800">
+        <title lang="zh">优秀文化节目展播  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909202000 +0800" stop="20250909204500 +0800">
-        <title lang="zh">未来科学家</title>
+    <programme channel="江苏教育" start="20250909212100 +0800" stop="20250909224200 +0800">
+        <title lang="zh">雪豹坚强岁月（35-36）  </title>
     </programme>
-    <programme channel="江苏教育" start="20250909204500 +0800" stop="20250909210000 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909210000 +0800" stop="20250909212000 +0800">
-        <title lang="zh">传承人</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909212000 +0800" stop="20250909224000 +0800">
-        <title lang="zh">重温经典</title>
-    </programme>
-    <programme channel="江苏教育" start="20250909224000 +0800" stop="20250910000000 +0800">
-        <title lang="zh">一站到底</title>
+    <programme channel="江苏教育" start="20250909224200 +0800" stop="20250910000000 +0800">
+        <title lang="zh">一站到底  </title>
     </programme>
     <channel id="江苏影视频道">
         <display-name lang="zh">江苏影视频道</display-name>
@@ -6979,82 +6940,76 @@
         <title lang="zh">猪猪侠之超星五灵侠</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909070000 +0800" stop="20250909080000 +0800">
-        <title lang="zh">嘟当曼</title>
+        <title lang="zh"> 猪猪侠超星五灵侠</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909080000 +0800" stop="20250909090500 +0800">
-        <title lang="zh">超级飞侠</title>
+    <programme channel="优漫卡通频道" start="20250909080000 +0800" stop="20250909083000 +0800">
+        <title lang="zh"> 海底小纵队</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909090500 +0800" stop="20250909100000 +0800">
-        <title lang="zh">智能小当家</title>
+    <programme channel="优漫卡通频道" start="20250909083000 +0800" stop="20250909084500 +0800">
+        <title lang="zh"> 故宫里的大怪兽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909100000 +0800" stop="20250909102500 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250909084500 +0800" stop="20250909090000 +0800">
+        <title lang="zh"> 超级飞侠</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909102500 +0800" stop="20250909110000 +0800">
-        <title lang="zh">百变校巴</title>
+    <programme channel="优漫卡通频道" start="20250909090000 +0800" stop="20250909100000 +0800">
+        <title lang="zh"> 无敌鹿战队</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909110000 +0800" stop="20250909121000 +0800">
-        <title lang="zh">天眼归来</title>
+    <programme channel="优漫卡通频道" start="20250909100000 +0800" stop="20250909110000 +0800">
+        <title lang="zh"> 精灵梦叶罗丽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909121000 +0800" stop="20250909123000 +0800">
-        <title lang="zh">萌鸡小队</title>
+    <programme channel="优漫卡通频道" start="20250909110000 +0800" stop="20250909120000 +0800">
+        <title lang="zh"> 猪猪侠超星五灵侠</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250909120000 +0800" stop="20250909123000 +0800">
+        <title lang="zh"> 萌鸡小队</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909123000 +0800" stop="20250909125500 +0800">
-        <title lang="zh">来玩吧</title>
+        <title lang="zh"> 来玩吧</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909125500 +0800" stop="20250909140000 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+        <title lang="zh"> 无敌鹿战队</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909140000 +0800" stop="20250909150000 +0800">
-        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
+        <title lang="zh"> 精灵梦叶罗丽</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909150000 +0800" stop="20250909160000 +0800">
-        <title lang="zh">海底小纵队</title>
+        <title lang="zh"> 猪猪侠超星五灵侠  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909160000 +0800" stop="20250909170300 +0800">
-        <title lang="zh">超级飞侠</title>
+    <programme channel="优漫卡通频道" start="20250909160000 +0800" stop="20250909170000 +0800">
+        <title lang="zh"> 无敌鹿战队</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909170300 +0800" stop="20250909175000 +0800">
-        <title lang="zh">百变布鲁可</title>
+    <programme channel="优漫卡通频道" start="20250909170000 +0800" stop="20250909180000 +0800">
+        <title lang="zh"> 新大头儿子小头爸爸欢乐亲子营</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909175000 +0800" stop="20250909181500 +0800">
-        <title lang="zh">来玩吧</title>
+    <programme channel="优漫卡通频道" start="20250909180000 +0800" stop="20250909182500 +0800">
+        <title lang="zh"> 来玩吧</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909181500 +0800" stop="20250909183000 +0800">
-        <title lang="zh">超变战陀之百变战陀</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250909183000 +0800" stop="20250909184500 +0800">
-        <title lang="zh">寻梦泡泡岛</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250909184500 +0800" stop="20250909190000 +0800">
-        <title lang="zh">家有灶君</title>
+    <programme channel="优漫卡通频道" start="20250909182500 +0800" stop="20250909190000 +0800">
+        <title lang="zh"> 萌鸡小队</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909190000 +0800" stop="20250909190500 +0800">
-        <title lang="zh">来玩吧</title>
+        <title lang="zh"> 来玩吧</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909190500 +0800" stop="20250909192000 +0800">
-        <title lang="zh">量子战队之恐龙守护</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250909192000 +0800" stop="20250909193500 +0800">
-        <title lang="zh">心奇爆龙战车之超斗爆龙</title>
+    <programme channel="优漫卡通频道" start="20250909190500 +0800" stop="20250909193500 +0800">
+        <title lang="zh"> 海底小纵队</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909193500 +0800" stop="20250909195000 +0800">
-        <title lang="zh">超元绝战之传说卡</title>
+        <title lang="zh"> 故宫里的大怪兽</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250909195000 +0800" stop="20250909200500 +0800">
-        <title lang="zh">少年英雄小哪吒</title>
+        <title lang="zh"> 棉花糖和云朵妈妈暖心回响</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909200500 +0800" stop="20250909203500 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+    <programme channel="优漫卡通频道" start="20250909200500 +0800" stop="20250909210000 +0800">
+        <title lang="zh"> 果茶蜜探</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909203500 +0800" stop="20250909210000 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250909210000 +0800" stop="20250909220000 +0800">
+        <title lang="zh"> 猪猪侠超星五灵侠</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909210000 +0800" stop="20250909221200 +0800">
-        <title lang="zh">乌龙院之活宝传奇</title>
+    <programme channel="优漫卡通频道" start="20250909220000 +0800" stop="20250909233000 +0800">
+        <title lang="zh"> 你比星光美丽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250909221200 +0800" stop="20250910000000 +0800">
-        <title lang="zh">梦在海这边</title>
+    <programme channel="优漫卡通频道" start="20250909233000 +0800" stop="20250910000000 +0800">
+        <title lang="zh"> 海底小纵队</title>
     </programme>
     <channel id="江阴新闻综合">
         <display-name lang="zh">江阴新闻综合</display-name>
