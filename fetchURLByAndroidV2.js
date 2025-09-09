@@ -9,9 +9,10 @@ async function fetchURLByAndroid() {
   const userId = process.env.USERID
   const token = process.env.MIGU_TOKEN
 
-  const start = Date.now()
+  const date = new Date()
+  const start = date.getTime()
 
-  // aptv 必须绝对路径
+  // 必须绝对路径
   const path = process.cwd() + '/interface.txt'
   // 创建写入空内容
   writeFile(path, "")
