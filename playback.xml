@@ -567,10 +567,10 @@
     <programme channel="CCTV6电影" start="20250909142500 +0800" stop="20250909150000 +0800">
         <title lang="zh">战俘拳王（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20250909150000 +0800" stop="20250909155900 +0800">
+    <programme channel="CCTV6电影" start="20250909150000 +0800" stop="20250909160100 +0800">
         <title lang="zh">战俘拳王（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20250909155900 +0800" stop="20250909163700 +0800">
+    <programme channel="CCTV6电影" start="20250909160100 +0800" stop="20250909163700 +0800">
         <title lang="zh">我和我的父辈：少年行</title>
     </programme>
     <programme channel="CCTV6电影" start="20250909163700 +0800" stop="20250909181900 +0800">
@@ -591,7 +591,7 @@
     <programme channel="CCTV6电影" start="20250909221800 +0800" stop="20250909222300 +0800">
         <title lang="zh">中国福利彩票阳光开奖2025-09-09</title>
     </programme>
-    <programme channel="CCTV6电影" start="20250909222300 +0800" stop="20250910001000 +0800">
+    <programme channel="CCTV6电影" start="20250909222300 +0800" stop="20250910000800 +0800">
         <title lang="zh">谍影重重3</title>
     </programme>
     <channel id="CCTV7国防军事">
@@ -5331,7 +5331,7 @@
     <programme channel="上海新闻综合" start="20250909230000 +0800" stop="20250909232500 +0800">
         <title lang="zh">东方110</title>
     </programme>
-    <programme channel="上海新闻综合" start="20250909232500 +0800" stop="20250910000000 +0800">
+    <programme channel="上海新闻综合" start="20250909232500 +0800" stop="20250910000600 +0800">
         <title lang="zh">40集连续剧：情满九道弯（11）</title>
     </programme>
     <channel id="上视东方影视">
@@ -5340,77 +5340,80 @@
     <programme channel="上视东方影视" start="20250908235800 +0800" stop="20250909000400 +0800">
         <title lang="zh">32集连续剧：特别行动（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909000400 +0800" stop="20250909004500 +0800">
+    <programme channel="上视东方影视" start="20250909000400 +0800" stop="20250909004000 +0800">
         <title lang="zh">32集连续剧：特别行动（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909004500 +0800" stop="20250909060100 +0800">
+    <programme channel="上视东方影视" start="20250909004000 +0800" stop="20250909060800 +0800">
         <title lang="zh">32集连续剧：特别行动（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909060100 +0800" stop="20250909065400 +0800">
+    <programme channel="上视东方影视" start="20250909060800 +0800" stop="20250909065900 +0800">
         <title lang="zh">40集连续剧：出生入死（40）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909065400 +0800" stop="20250909075400 +0800">
+    <programme channel="上视东方影视" start="20250909065900 +0800" stop="20250909075200 +0800">
         <title lang="zh">50集连续剧：飞哥战队（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909075400 +0800" stop="20250909084700 +0800">
+    <programme channel="上视东方影视" start="20250909075200 +0800" stop="20250909084400 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909084700 +0800" stop="20250909094000 +0800">
+    <programme channel="上视东方影视" start="20250909084400 +0800" stop="20250909093700 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909094000 +0800" stop="20250909103700 +0800">
+    <programme channel="上视东方影视" start="20250909093700 +0800" stop="20250909103400 +0800">
         <title lang="zh">42集连续剧：烈火战马（40）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909103700 +0800" stop="20250909113400 +0800">
+    <programme channel="上视东方影视" start="20250909103400 +0800" stop="20250909113100 +0800">
         <title lang="zh">42集连续剧：烈火战马（41）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909113400 +0800" stop="20250909122000 +0800">
+    <programme channel="上视东方影视" start="20250909113100 +0800" stop="20250909122300 +0800">
         <title lang="zh">42集连续剧：烈火战马（42）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909122000 +0800" stop="20250909123500 +0800">
+    <programme channel="上视东方影视" start="20250909122300 +0800" stop="20250909123900 +0800">
         <title lang="zh">超级装</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909123500 +0800" stop="20250909132300 +0800">
+    <programme channel="上视东方影视" start="20250909123900 +0800" stop="20250909133000 +0800">
         <title lang="zh">36集连续剧：正者无敌（21）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909132300 +0800" stop="20250909133300 +0800">
+    <programme channel="上视东方影视" start="20250909133000 +0800" stop="20250909134200 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909133300 +0800" stop="20250909143100 +0800">
+    <programme channel="上视东方影视" start="20250909134200 +0800" stop="20250909143500 +0800">
         <title lang="zh">36集连续剧：正者无敌（22）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909143100 +0800" stop="20250909152800 +0800">
+    <programme channel="上视东方影视" start="20250909143500 +0800" stop="20250909152800 +0800">
         <title lang="zh">36集连续剧：正者无敌（23）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909152800 +0800" stop="20250909162200 +0800">
+    <programme channel="上视东方影视" start="20250909152800 +0800" stop="20250909162400 +0800">
         <title lang="zh">32集连续剧：烽火连城决（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909162200 +0800" stop="20250909171600 +0800">
+    <programme channel="上视东方影视" start="20250909162400 +0800" stop="20250909171500 +0800">
         <title lang="zh">32集连续剧：烽火连城决（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909171600 +0800" stop="20250909180500 +0800">
+    <programme channel="上视东方影视" start="20250909171500 +0800" stop="20250909180800 +0800">
         <title lang="zh">32集连续剧：烽火连城决（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909180500 +0800" stop="20250909185000 +0800">
+    <programme channel="上视东方影视" start="20250909180800 +0800" stop="20250909185000 +0800">
         <title lang="zh">32集连续剧：烽火连城决（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909185000 +0800" stop="20250909194200 +0800">
+    <programme channel="上视东方影视" start="20250909185000 +0800" stop="20250909193500 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909194200 +0800" stop="20250909203400 +0800">
+    <programme channel="上视东方影视" start="20250909193500 +0800" stop="20250909202900 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909203400 +0800" stop="20250909212300 +0800">
+    <programme channel="上视东方影视" start="20250909202900 +0800" stop="20250909212200 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909212300 +0800" stop="20250909221000 +0800">
+    <programme channel="上视东方影视" start="20250909212200 +0800" stop="20250909221600 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909221000 +0800" stop="20250909230000 +0800">
+    <programme channel="上视东方影视" start="20250909221600 +0800" stop="20250909230800 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（7）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250909230000 +0800" stop="20250910000000 +0800">
+    <programme channel="上视东方影视" start="20250909230800 +0800" stop="20250909235100 +0800">
         <title lang="zh">32集连续剧：特别行动（6）</title>
+    </programme>
+    <programme channel="上视东方影视" start="20250909235100 +0800" stop="20250910003300 +0800">
+        <title lang="zh">32集连续剧：特别行动（7）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
