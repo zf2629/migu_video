@@ -9,8 +9,7 @@ async function fetchURLByAndroid() {
   const userId = process.env.USERID
   const token = process.env.MIGU_TOKEN
 
-  const date = new Date()
-  const start = date.getTime()
+  const start = Date.now()
 
   // aptv 必须绝对路径
   const path = process.cwd() + '/interface.txt'
@@ -26,7 +25,6 @@ async function fetchURLByAndroid() {
     `<?xml version="1.0" encoding="UTF-8"?>\n` +
     `<tv generator-info-name="Tak" generator-info-url="https://github.com/develop202/migu_video/blob/main/playback.xml">\n`)
 
-  // 0点
   if (!date.getHours()) {
     // 0点刷新token
     await refreshToken(userId, token) ? console.log("token刷新成功") : console.log("token刷新失败")
