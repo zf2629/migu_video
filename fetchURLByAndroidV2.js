@@ -11,8 +11,6 @@ async function fetchURLByAndroid() {
 
   const date = new Date()
   const start = date.getTime()
-  console.log(date.toDateString())
-  console.log(date.toTimeString())
   // 必须绝对路径
   const path = process.cwd() + '/interface.txt'
 
@@ -42,7 +40,8 @@ async function fetchURLByAndroid() {
   }
 
   // aptv写入开头
-  appendFile(aptvPath, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+  // appendFile(aptvPath, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+  appendFile(aptvPath, `#EXTM3U x-tvg-url="https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
 
   // 分类列表
   for (let i = 0; i < datas.length; i++) {
