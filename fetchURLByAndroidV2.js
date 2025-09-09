@@ -20,16 +20,14 @@ async function fetchURLByAndroid() {
   // 获取数据
   const datas = await dataList()
 
-  const hours = date.getHours()
-  let playbackFile = ""
+  // 回放
+  const playbackFile = process.cwd() + '/playback.xml'
+  writeFile(playbackFile,
+    `<?xml version="1.0" encoding="UTF-8"?>\n` +
+    `<tv generator-info-name="Tak" generator-info-url="https://github.com/develop202/migu_video/blob/main/playback.xml">\n`)
+
   // 0点
-  if (!hours) {
-
-    playbackFile = process.cwd() + '/playback.xml'
-    writeFile(playbackFile,
-      `<?xml version="1.0" encoding="UTF-8"?>\n` +
-      `<tv generator-info-name="Tak" generator-info-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml">\n`)
-
+  if (!date.getHours()) {
     // 0点刷新token
     await refreshToken(userId, token) ? console.log("token刷新成功") : console.log("token刷新失败")
   }
@@ -45,11 +43,9 @@ async function fetchURLByAndroid() {
     const data = datas[i].dataList
     // 写入节目
     for (let j = 0; j < data.length; j++) {
-      if (!hours) {
-        const res = await updatePlaybackData(data[j], playbackFile)
-        if (!res) {
-          console.log(`playback.xml更新失败`)
-        }
+      const res = await updatePlaybackData(data[j], playbackFile)
+      if (!res) {
+        console.log(`playback.xml更新失败`)
       }
 
       // 获取链接
@@ -65,9 +61,7 @@ async function fetchURLByAndroid() {
     }
   }
 
-  if (!hours) {
-    appendFile(playbackFile, `</tv>\n`)
-  }
+  appendFile(playbackFile, `</tv>\n`)
   const end = Date.now()
   console.log(`本次耗时:${(end - start) / 1000}秒`)
 }
