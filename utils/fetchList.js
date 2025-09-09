@@ -53,7 +53,7 @@ async function dataList() {
 // 获取电视链接
 async function getUrlInfo(contId) {
   try {
-    const resp = await axios.get(`https://webapi.miguvideo.com/gateway/playurl/v2/play/playurlh5?contId=${contId}&rateType=999&startPlay=true&xh265=false&channelId=0131_200300220100002`)
+    const resp = await axios.get(`https://webapi.miguvideo.com/gateway/playurl/v2/play/playurlh5?contId=${contId}&rateType=999&clientId=-&startPlay=true&xh265=false&channelId=0131_200300220100002`)
     // console.log(resp.data.body.urlInfo.url)
     // console.log(resp.data)
     if (resp.data?.body?.urlInfo?.url) {

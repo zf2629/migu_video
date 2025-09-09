@@ -1,6 +1,6 @@
 import fs from "fs"
 import { dataList, delay, getUrlInfo } from "./utils/fetchList.js"
-import { getEncryptURL, initWasm } from "./utils/getddCalcuURL.js"
+import { getEncryptURL, initWasm } from "./utils/ddCalcuURL.js"
 
 async function fetchURLByWasm() {
 

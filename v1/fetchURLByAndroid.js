@@ -1,6 +1,6 @@
 import fs from "fs"
 import { delay } from "./utils/fetchList.js"
-import { initWasm } from "./utils/getddCalcuURL.js"
+import { initWasm } from "./utils/ddCalcuURL.js"
 import getAndroidVideoURL from "./utils/androidURL.js"
 import { channelName } from "./utils/datas.js"
 import refreshToken from "./utils/refreshToken.js"

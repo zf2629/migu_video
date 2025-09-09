@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getStringMD5 } from "./EncryUtils.js";
-import { getddCalcuURL, getEncryptURL } from "./getddCalcuURL.js";
+import { getddCalcuURL, getEncryptURL } from "./ddCalcuURL.js";
 import { changedDdCalcu } from "./datas.js";
 
 function getSaltAndSign(md5) {
