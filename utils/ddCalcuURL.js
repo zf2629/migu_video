@@ -188,4 +188,74 @@ function getddCalcuURL(puDataURL, programId, clientType, rateType) {
   return `${puDataURL}&ddCalcu=${ddCalcu}${suffix}`
 }
 
-export { initWasm, getEncryptURL, getddCalcuURL }
+
+/**
+ * 旧版720p ddcalcu
+ * @param {string} puData - 服务器返回的那个东东
+ * @param {string} programId - 节目ID
+ * @returns {string} - ddCalcu
+ */
+function getddCalcu720p(puData, programId) {
+
+  if (puData == null || puData == undefined) {
+    return ""
+  }
+
+  if (programId == null || programId == undefined) {
+    return ""
+  }
+
+  const words = ["e","1","","0"]
+  const thirdReplaceIndex = 2
+
+  puData = puData.split("");
+  const keys = "0123456789".split("")
+  const puDataLength = puData.length
+
+  programId = programId.split("")
+  let ddCalcu = []
+  for (let i = 0; i < puDataLength / 2; i++) {
+
+    ddCalcu.push(puData[puDataLength - i - 1])
+    ddCalcu.push(puData[i])
+    switch (i) {
+      case 1:
+        ddCalcu.push(words[i - 1])
+        break;
+      case 2:
+        ddCalcu.push(words[i - 1])
+        break;
+      case 3:
+        ddCalcu.push(keys[programId[thirdReplaceIndex]])
+        break;
+      case 4:
+        ddCalcu.push(words[i - 1])
+        break;
+    }
+  }
+  return ddCalcu.join("")
+}
+
+/**
+ * 旧版720p加密链接
+ * @param {string} puDataURL - 加密前链接
+ * @param {string} programId - 节目ID
+ * @returns {string} - 加密链接
+ */
+function getddCalcuURL720p(puDataURL, programId) {
+
+  if (puDataURL == null || puDataURL == undefined) {
+    return ""
+  }
+
+  if (programId == null || programId == undefined) {
+    return ""
+  }
+
+  const puData = puDataURL.split("&puData=")[1]
+  const ddCalcu = getddCalcu720p(puData, programId)
+
+  return `${puDataURL}&ddCalcu=${ddCalcu}`
+}
+
+export { initWasm, getEncryptURL, getddCalcuURL, getddCalcuURL720p }

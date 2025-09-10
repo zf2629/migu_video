@@ -6594,38 +6594,44 @@
     <programme channel="盐城新闻综合" start="20250910065000 +0800" stop="20250910073000 +0800">
         <title lang="zh">重播:悦达新天地</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910073000 +0800" stop="20250910082000 +0800">
+    <programme channel="盐城新闻综合" start="20250910073000 +0800" stop="20250910075500 +0800">
         <title lang="zh">重播盐城新闻</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910082000 +0800" stop="20250910115900 +0800">
+    <programme channel="盐城新闻综合" start="20250910075500 +0800" stop="20250910120400 +0800">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910115900 +0800" stop="20250910122000 +0800">
-        <title lang="zh">重播:医路导航</title>
+    <programme channel="盐城新闻综合" start="20250910120400 +0800" stop="20250910122000 +0800">
+        <title lang="zh">重播：聚焦新盐城</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250910122000 +0800" stop="20250910124000 +0800">
-        <title lang="zh">重播:家在盐城</title>
+        <title lang="zh">重播：家在盐城</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910124000 +0800" stop="20250910132500 +0800">
-        <title lang="zh">重播:盐城新闻</title>
+    <programme channel="盐城新闻综合" start="20250910124000 +0800" stop="20250910131700 +0800">
+        <title lang="zh">重播：盐城新闻</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910132500 +0800" stop="20250910140700 +0800">
-        <title lang="zh">重播:城际快车</title>
+    <programme channel="盐城新闻综合" start="20250910131700 +0800" stop="20250910134900 +0800">
+        <title lang="zh">重播：城际快车</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910140700 +0800" stop="20250910171800 +0800">
+    <programme channel="盐城新闻综合" start="20250910134900 +0800" stop="20250910165600 +0800">
+        <title lang="zh">电视剧：小夫妻</title>
+    </programme>
+    <programme channel="盐城新闻综合" start="20250910165600 +0800" stop="20250910171500 +0800">
+        <title lang="zh">重播：家在盐城</title>
+    </programme>
+    <programme channel="盐城新闻综合" start="20250910171500 +0800" stop="20250910174800 +0800">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910171800 +0800" stop="20250910181000 +0800">
-        <title lang="zh">动画片</title>
+    <programme channel="盐城新闻综合" start="20250910174800 +0800" stop="20250910181300 +0800">
+        <title lang="zh">重播：盐谈健康</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910181000 +0800" stop="20250910183000 +0800">
-        <title lang="zh">悦达新天地</title>
+    <programme channel="盐城新闻综合" start="20250910181300 +0800" stop="20250910183000 +0800">
+        <title lang="zh">首播：聚焦新盐城</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250910183000 +0800" stop="20250910190000 +0800">
-        <title lang="zh">首播:盐城新闻</title>
+        <title lang="zh">盐城新闻</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250910190000 +0800" stop="20250910193500 +0800">
-        <title lang="zh">转播:新闻联播</title>
+        <title lang="zh">转播：新闻联播</title>
     </programme>
     <programme channel="盐城新闻综合" start="20250910193500 +0800" stop="20250910194400 +0800">
         <title lang="zh">盐城天气预报</title>
@@ -6633,19 +6639,22 @@
     <programme channel="盐城新闻综合" start="20250910194400 +0800" stop="20250910213000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910213000 +0800" stop="20250910214500 +0800">
-        <title lang="zh">首播:家在盐城</title>
+    <programme channel="盐城新闻综合" start="20250910213000 +0800" stop="20250910215000 +0800">
+        <title lang="zh">重播：家在盐城</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910214500 +0800" stop="20250910220000 +0800">
-        <title lang="zh">首播:城际快车</title>
+    <programme channel="盐城新闻综合" start="20250910215000 +0800" stop="20250910220000 +0800">
+        <title lang="zh">首播：又见燕舞</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910220000 +0800" stop="20250910225500 +0800">
-        <title lang="zh">重播:盐城新闻</title>
+    <programme channel="盐城新闻综合" start="20250910220000 +0800" stop="20250910223000 +0800">
+        <title lang="zh">重播：盐城新闻</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910225500 +0800" stop="20250910235000 +0800">
-        <title lang="zh">首播:医路导航</title>
+    <programme channel="盐城新闻综合" start="20250910223000 +0800" stop="20250910231700 +0800">
+        <title lang="zh">重播：家在盐城</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20250910235000 +0800" stop="20250911015700 +0800">
+    <programme channel="盐城新闻综合" start="20250910231700 +0800" stop="20250910233700 +0800">
+        <title lang="zh">重播：盐城金融</title>
+    </programme>
+    <programme channel="盐城新闻综合" start="20250910233700 +0800" stop="20250911015700 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="淮安新闻综合">
@@ -8923,7 +8932,7 @@
         <title lang="zh">职教中国</title>
     </programme>
     <programme channel="CETV4" start="20250910024500 +0800" stop="20250910031500 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <programme channel="CETV4" start="20250910031500 +0800" stop="20250910034500 +0800">
         <title lang="zh">体谈</title>
@@ -8944,7 +8953,7 @@
         <title lang="zh">职教中国</title>
     </programme>
     <programme channel="CETV4" start="20250910070000 +0800" stop="20250910073000 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <programme channel="CETV4" start="20250910073000 +0800" stop="20250910080000 +0800">
         <title lang="zh">体谈</title>
@@ -8953,7 +8962,7 @@
         <title lang="zh">国医名师课</title>
     </programme>
     <programme channel="CETV4" start="20250910083000 +0800" stop="20250910091500 +0800">
-        <title lang="zh">一职为你</title>
+        <title lang="zh">文化的力量</title>
     </programme>
     <programme channel="CETV4" start="20250910091500 +0800" stop="20250910093000 +0800">
         <title lang="zh">墨香</title>
@@ -9037,7 +9046,7 @@
         <title lang="zh">体谈</title>
     </programme>
     <programme channel="CETV4" start="20250910234000 +0800" stop="20250911001000 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <channel id="熊猫频道01高清">
         <display-name lang="zh">熊猫频道01高清</display-name>

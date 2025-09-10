@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getStringMD5 } from "./EncryUtils.js";
-import { getddCalcuURL, getEncryptURL } from "./ddCalcuURL.js";
+import { getddCalcuURL, getddCalcuURL720p, getEncryptURL } from "./ddCalcuURL.js";
 import { changedDdCalcu } from "./datas.js";
 
 function getSaltAndSign(md5) {
@@ -192,4 +192,61 @@ async function getAndroidURL(userId, token, pid, rateType) {
 
 }
 
-export { getAndroidVideoURL, getAndroidURL }
+
+/**
+ * 旧版高清画质
+ * @param {string} pid - 节目ID
+ * @returns {} - url: 链接 rateType: 清晰度
+ */
+async function getAndroidURL720p(pid) {
+  // 获取url
+  const timestramp = Date.now()
+  const appVersion = "26000009"
+  let headers = {
+    AppVersion: 2600000900,
+    TerminalId: "android",
+    "X-UP-CLIENT-CHANNEL-ID": "2600000900-99000-201600010010027"
+  }
+  // console.log(headers)
+  const str = timestramp + pid + appVersion
+  const md5 = getStringMD5(str)
+
+  const salt = 66666601
+  const suffix = "770fafdf5ba04d279a59ef1600baae98migu6666"
+  const sign = getStringMD5(md5 + suffix)
+
+  let rateType = 3
+  // 广东卫视有些特殊
+  if (pid == "608831231") {
+    rateType = 2
+  }
+  // 请求
+  const baseURL = "https://play.miguvideo.com/playurl/v1/play/playurl"
+  const params = "?sign=" + sign + "&rateType=" + rateType
+    + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + salt
+  const respData = await axios.get(baseURL + params, {
+    headers: headers
+  }).then(r => r.data)
+
+  // console.log(respData)
+  const url = respData.body.urlInfo?.url
+  // console.log(rateType)
+  // console.log(url)
+  if (!url) {
+    return {
+      url: "",
+      rateType: 0
+    }
+  }
+
+  // 将URL加密
+  const resURL = getddCalcuURL720p(url, pid)
+
+  return {
+    url: resURL,
+    rateType: 3
+  }
+
+}
+
+export { getAndroidVideoURL, getAndroidURL, getAndroidURL720p }
