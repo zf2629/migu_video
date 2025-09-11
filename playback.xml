@@ -2326,7 +2326,7 @@
         <title lang="zh">纪录片(俄)-2025-508</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911120000 +0800" stop="20250911123000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911123000 +0800" stop="20250911130000 +0800">
         <title lang="zh">观点聚焦(俄)-2025-109</title>
@@ -2338,7 +2338,7 @@
         <title lang="zh">缤纷中国(俄)-2025-254</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911140000 +0800" stop="20250911143000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911143000 +0800" stop="20250911151500 +0800">
         <title lang="zh">放映厅(俄)-大山的女儿(俄)(精编版)-28/30</title>
@@ -2347,7 +2347,7 @@
         <title lang="zh">放映厅(俄)-大山的女儿(俄)(精编版)-29/30</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911160000 +0800" stop="20250911163000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911163000 +0800" stop="20250911170000 +0800">
         <title lang="zh">欧亚时间(俄)-2025-255</title>
@@ -2359,7 +2359,7 @@
         <title lang="zh">纪录片(俄)-2025-508</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911180000 +0800" stop="20250911183000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911183000 +0800" stop="20250911190000 +0800">
         <title lang="zh">观点聚焦(俄)-2025-109</title>
@@ -2371,7 +2371,7 @@
         <title lang="zh">旅游指南(俄)-2025-254</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911200000 +0800" stop="20250911203000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911203000 +0800" stop="20250911210000 +0800">
         <title lang="zh">欧亚时间(俄)-2025-255</title>
@@ -2383,7 +2383,7 @@
         <title lang="zh">纪录片(俄)-2025-508</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911220000 +0800" stop="20250911223000 +0800">
-        <title lang="zh">综合新闻(俄)-20250911(</title>
+        <title lang="zh">综合新闻(俄)-20250911</title>
     </programme>
     <programme channel="CGTN俄语" start="20250911223000 +0800" stop="20250911230000 +0800">
         <title lang="zh">观点聚焦(俄)-2025-109</title>
@@ -2396,330 +2396,6 @@
     </programme>
     <programme channel="CGTN俄语" start="20250911233000 +0800" stop="20250912000000 +0800">
         <title lang="zh">生财有道(俄)-2025-254</title>
-    </programme>
-    <channel id="老故事">
-        <display-name lang="zh">老故事</display-name>
-    </channel>
-    <programme channel="老故事" start="20250910234900 +0800" stop="20250911000100 +0800">
-        <title lang="zh">开拓者《让银发丈量山河》</title>
-    </programme>
-    <programme channel="老故事" start="20250911000100 +0800" stop="20250911000500 +0800">
-        <title lang="zh">特别节目《他们从日本工农学校走出》</title>
-    </programme>
-    <programme channel="老故事" start="20250911000500 +0800" stop="20250911003000 +0800">
-        <title lang="zh">人文纪录《从河说起》（六）</title>
-    </programme>
-    <programme channel="老故事" start="20250911003000 +0800" stop="20250911060100 +0800">
-        <title lang="zh">特别节目《那些古人教我的事》（十）</title>
-    </programme>
-    <programme channel="老故事" start="20250911060100 +0800" stop="20250911063200 +0800">
-        <title lang="zh">亲历《我们是光荣的八大员》（2）</title>
-    </programme>
-    <programme channel="老故事" start="20250911063200 +0800" stop="20250911064700 +0800">
-        <title lang="zh">信用中国《王莉》（下）</title>
-    </programme>
-    <programme channel="老故事" start="20250911064700 +0800" stop="20250911070100 +0800">
-        <title lang="zh">信用中国《冉庚枢》</title>
-    </programme>
-    <programme channel="老故事" start="20250911070100 +0800" stop="20250911071600 +0800">
-        <title lang="zh">攀登者《教育的温度》</title>
-    </programme>
-    <programme channel="老故事" start="20250911071600 +0800" stop="20250911073000 +0800">
-        <title lang="zh">致敬奋斗者《无声的守护》</title>
-    </programme>
-    <programme channel="老故事" start="20250911073000 +0800" stop="20250911082000 +0800">
-        <title lang="zh">特别节目《风从东方来》（五）</title>
-    </programme>
-    <programme channel="老故事" start="20250911082000 +0800" stop="20250911083000 +0800">
-        <title lang="zh">见解《理想教育点亮星星》</title>
-    </programme>
-    <programme channel="老故事" start="20250911083000 +0800" stop="20250911083800 +0800">
-        <title lang="zh">特别节目《真正的铜墙铁壁》</title>
-    </programme>
-    <programme channel="老故事" start="20250911083800 +0800" stop="20250911084900 +0800">
-        <title lang="zh">强国智造《厕所的健康革命》</title>
-    </programme>
-    <programme channel="老故事" start="20250911084900 +0800" stop="20250911090100 +0800">
-        <title lang="zh">强国智造《慧视深蓝》</title>
-    </programme>
-    <programme channel="老故事" start="20250911090100 +0800" stop="20250911093000 +0800">
-        <title lang="zh">亲历《我们是光荣的八大员》（3）</title>
-    </programme>
-    <programme channel="老故事" start="20250911093000 +0800" stop="20250911094100 +0800">
-        <title lang="zh">信用中国《鲍鹏》</title>
-    </programme>
-    <programme channel="老故事" start="20250911094100 +0800" stop="20250911095100 +0800">
-        <title lang="zh">信用中国《杨弘斌》</title>
-    </programme>
-    <programme channel="老故事" start="20250911095100 +0800" stop="20250911104100 +0800">
-        <title lang="zh">特别节目《陕西抗战纪实》（一）</title>
-    </programme>
-    <programme channel="老故事" start="20250911104100 +0800" stop="20250911111400 +0800">
-        <title lang="zh">特别节目《湿润的文明》（五）</title>
-    </programme>
-    <programme channel="老故事" start="20250911111400 +0800" stop="20250911114800 +0800">
-        <title lang="zh">特别节目《那些古人教我的事》（十二）</title>
-    </programme>
-    <programme channel="老故事" start="20250911114800 +0800" stop="20250911120300 +0800">
-        <title lang="zh">品质中国《不负光阴不负自心》</title>
-    </programme>
-    <programme channel="老故事" start="20250911120300 +0800" stop="20250911121300 +0800">
-        <title lang="zh">品质中国《智护口腔关怀入微》</title>
-    </programme>
-    <programme channel="老故事" start="20250911121300 +0800" stop="20250911121900 +0800">
-        <title lang="zh">特别节目《访问延安的特殊使团》</title>
-    </programme>
-    <programme channel="老故事" start="20250911121900 +0800" stop="20250911130100 +0800">
-        <title lang="zh">纪录中国《银河中的星星》《向上的我们》《大国之树》（二）</title>
-    </programme>
-    <programme channel="老故事" start="20250911130100 +0800" stop="20250911133200 +0800">
-        <title lang="zh">亲历《我们是光荣的八大员》（2）</title>
-    </programme>
-    <programme channel="老故事" start="20250911133200 +0800" stop="20250911134700 +0800">
-        <title lang="zh">信用中国《王莉》（下）</title>
-    </programme>
-    <programme channel="老故事" start="20250911134700 +0800" stop="20250911140100 +0800">
-        <title lang="zh">信用中国《冉庚枢》</title>
-    </programme>
-    <programme channel="老故事" start="20250911140100 +0800" stop="20250911141600 +0800">
-        <title lang="zh">攀登者《教育的温度》</title>
-    </programme>
-    <programme channel="老故事" start="20250911141600 +0800" stop="20250911143000 +0800">
-        <title lang="zh">致敬奋斗者《无声的守护》</title>
-    </programme>
-    <programme channel="老故事" start="20250911143000 +0800" stop="20250911152000 +0800">
-        <title lang="zh">特别节目《风从东方来》（五）</title>
-    </programme>
-    <programme channel="老故事" start="20250911152000 +0800" stop="20250911153000 +0800">
-        <title lang="zh">见解《理想教育点亮星星》</title>
-    </programme>
-    <programme channel="老故事" start="20250911153000 +0800" stop="20250911153800 +0800">
-        <title lang="zh">特别节目《真正的铜墙铁壁》</title>
-    </programme>
-    <programme channel="老故事" start="20250911153800 +0800" stop="20250911154900 +0800">
-        <title lang="zh">强国智造《厕所的健康革命》</title>
-    </programme>
-    <programme channel="老故事" start="20250911154900 +0800" stop="20250911160000 +0800">
-        <title lang="zh">强国智造《慧视深蓝》</title>
-    </programme>
-    <programme channel="老故事" start="20250911160000 +0800" stop="20250911163000 +0800">
-        <title lang="zh">特别节目《湿润的文明》（四）</title>
-    </programme>
-    <programme channel="老故事" start="20250911163000 +0800" stop="20250911170100 +0800">
-        <title lang="zh">特别节目《那些古人教我的事》（十一）</title>
-    </programme>
-    <programme channel="老故事" start="20250911170100 +0800" stop="20250911173000 +0800">
-        <title lang="zh">亲历《我们是光荣的八大员》（3）</title>
-    </programme>
-    <programme channel="老故事" start="20250911173000 +0800" stop="20250911174100 +0800">
-        <title lang="zh">信用中国《鲍鹏》</title>
-    </programme>
-    <programme channel="老故事" start="20250911174100 +0800" stop="20250911175100 +0800">
-        <title lang="zh">信用中国《杨弘斌》</title>
-    </programme>
-    <programme channel="老故事" start="20250911175100 +0800" stop="20250911184100 +0800">
-        <title lang="zh">特别节目《陕西抗战纪实》（一）</title>
-    </programme>
-    <programme channel="老故事" start="20250911184100 +0800" stop="20250911191400 +0800">
-        <title lang="zh">特别节目《湿润的文明》（五）</title>
-    </programme>
-    <programme channel="老故事" start="20250911191400 +0800" stop="20250911194800 +0800">
-        <title lang="zh">特别节目《那些古人教我的事》（十二）</title>
-    </programme>
-    <programme channel="老故事" start="20250911194800 +0800" stop="20250911200300 +0800">
-        <title lang="zh">品质中国《不负光阴不负自心》</title>
-    </programme>
-    <programme channel="老故事" start="20250911200300 +0800" stop="20250911201300 +0800">
-        <title lang="zh">品质中国《智护口腔关怀入微》</title>
-    </programme>
-    <programme channel="老故事" start="20250911201300 +0800" stop="20250911201900 +0800">
-        <title lang="zh">特别节目《访问延安的特殊使团》</title>
-    </programme>
-    <programme channel="老故事" start="20250911201900 +0800" stop="20250911210100 +0800">
-        <title lang="zh">纪录中国《银河中的星星》《向上的我们》《大国之树》（二）</title>
-    </programme>
-    <programme channel="老故事" start="20250911210100 +0800" stop="20250911213200 +0800">
-        <title lang="zh">亲历《我们是光荣的八大员》（2）</title>
-    </programme>
-    <programme channel="老故事" start="20250911213200 +0800" stop="20250911214700 +0800">
-        <title lang="zh">信用中国《王莉》（下）</title>
-    </programme>
-    <programme channel="老故事" start="20250911214700 +0800" stop="20250911220100 +0800">
-        <title lang="zh">信用中国《冉庚枢》</title>
-    </programme>
-    <programme channel="老故事" start="20250911220100 +0800" stop="20250911221600 +0800">
-        <title lang="zh">攀登者《教育的温度》</title>
-    </programme>
-    <programme channel="老故事" start="20250911221600 +0800" stop="20250911223000 +0800">
-        <title lang="zh">致敬奋斗者《无声的守护》</title>
-    </programme>
-    <programme channel="老故事" start="20250911223000 +0800" stop="20250911232000 +0800">
-        <title lang="zh">特别节目《风从东方来》（五）</title>
-    </programme>
-    <programme channel="老故事" start="20250911232000 +0800" stop="20250911233000 +0800">
-        <title lang="zh">见解《理想教育点亮星星》</title>
-    </programme>
-    <programme channel="老故事" start="20250911233000 +0800" stop="20250911233800 +0800">
-        <title lang="zh">特别节目《真正的铜墙铁壁》</title>
-    </programme>
-    <programme channel="老故事" start="20250911233800 +0800" stop="20250911234900 +0800">
-        <title lang="zh">强国智造《厕所的健康革命》</title>
-    </programme>
-    <programme channel="老故事" start="20250911234900 +0800" stop="20250912000000 +0800">
-        <title lang="zh">强国智造《慧视深蓝》</title>
-    </programme>
-    <channel id="发现之旅">
-        <display-name lang="zh">发现之旅</display-name>
-    </channel>
-    <programme channel="发现之旅" start="20250911000000 +0800" stop="20250911003000 +0800">
-        <title lang="zh">空姐新发现（24-006）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911003000 +0800" stop="20250911060000 +0800">
-        <title lang="zh">新昌悟语（24-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911060000 +0800" stop="20250911063000 +0800">
-        <title lang="zh">对话品牌（24-044）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911063000 +0800" stop="20250911070000 +0800">
-        <title lang="zh">喜事（24-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911070000 +0800" stop="20250911073000 +0800">
-        <title lang="zh">新昌悟语（24-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911073000 +0800" stop="20250911073500 +0800">
-        <title lang="zh">青春之我（082）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911073500 +0800" stop="20250911074000 +0800">
-        <title lang="zh">青春之我（075）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911074000 +0800" stop="20250911074500 +0800">
-        <title lang="zh">翦商（25-023）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911074500 +0800" stop="20250911075000 +0800">
-        <title lang="zh">晓屯聊摄影（25-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911075000 +0800" stop="20250911080000 +0800">
-        <title lang="zh">佳酿之旅（25-03）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911080000 +0800" stop="20250911085700 +0800">
-        <title lang="zh">光影史诗（24-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911085700 +0800" stop="20250911090000 +0800">
-        <title lang="zh">频道宣传片</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911090000 +0800" stop="20250911095000 +0800">
-        <title lang="zh">西南联大（25-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911095000 +0800" stop="20250911103000 +0800">
-        <title lang="zh">杭州亚运专辑（003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911103000 +0800" stop="20250911103500 +0800">
-        <title lang="zh">青春之我（082）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911103500 +0800" stop="20250911104000 +0800">
-        <title lang="zh">青春之我（075）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911104000 +0800" stop="20250911111000 +0800">
-        <title lang="zh">喜事（24-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911111000 +0800" stop="20250911120000 +0800">
-        <title lang="zh">还看今朝（24-014）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911120000 +0800" stop="20250911124200 +0800">
-        <title lang="zh">你要倾听的大地（23-010）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911124200 +0800" stop="20250911130000 +0800">
-        <title lang="zh">重建中国茶道（007-009）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911130000 +0800" stop="20250911133000 +0800">
-        <title lang="zh">新昌悟语（24-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911133000 +0800" stop="20250911140000 +0800">
-        <title lang="zh">喜事（24-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911140000 +0800" stop="20250911140500 +0800">
-        <title lang="zh">青春之我（082）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911140500 +0800" stop="20250911141000 +0800">
-        <title lang="zh">青春之我（075）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911141000 +0800" stop="20250911150000 +0800">
-        <title lang="zh">大后方（25-008）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911150000 +0800" stop="20250911150500 +0800">
-        <title lang="zh">翦商（25-023）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911150500 +0800" stop="20250911151000 +0800">
-        <title lang="zh">晓屯聊摄影（25-006）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911151000 +0800" stop="20250911151800 +0800">
-        <title lang="zh">重建中国茶道（015）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911151800 +0800" stop="20250911155500 +0800">
-        <title lang="zh">你要倾听的大地（23-009）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911155500 +0800" stop="20250911160500 +0800">
-        <title lang="zh">你要倾听的大地（23-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911160500 +0800" stop="20250911164500 +0800">
-        <title lang="zh">杭州亚运专辑（003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911164500 +0800" stop="20250911165000 +0800">
-        <title lang="zh">青春之我（082）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911165000 +0800" stop="20250911165500 +0800">
-        <title lang="zh">青春之我（075）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911165500 +0800" stop="20250911175200 +0800">
-        <title lang="zh">光影史诗（24-003）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911175200 +0800" stop="20250911180000 +0800">
-        <title lang="zh">重建中国茶道（018）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911180000 +0800" stop="20250911183000 +0800">
-        <title lang="zh">新昌悟语（24-002）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911183000 +0800" stop="20250911184500 +0800">
-        <title lang="zh">国家生态（15-007）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911184500 +0800" stop="20250911190000 +0800">
-        <title lang="zh">国家生态（15-008）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911190000 +0800" stop="20250911195000 +0800">
-        <title lang="zh">家国（24-006）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911195000 +0800" stop="20250911202000 +0800">
-        <title lang="zh">喜事（24-004）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911202000 +0800" stop="20250911203000 +0800">
-        <title lang="zh">你要倾听的大地（23-016）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911203000 +0800" stop="20250911212000 +0800">
-        <title lang="zh">大后方（25-009）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911212000 +0800" stop="20250911212500 +0800">
-        <title lang="zh">翦商（25-024）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911212500 +0800" stop="20250911213000 +0800">
-        <title lang="zh">晓屯聊摄影（25-017）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911213000 +0800" stop="20250911213500 +0800">
-        <title lang="zh">青春之我（083）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911213500 +0800" stop="20250911214000 +0800">
-        <title lang="zh">青春之我（076）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911214000 +0800" stop="20250911223000 +0800">
-        <title lang="zh">西南联大（25-004）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911223000 +0800" stop="20250911230000 +0800">
-        <title lang="zh">新昌悟语（24-002）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911230000 +0800" stop="20250911233000 +0800">
-        <title lang="zh">空姐新发现（24-007）</title>
-    </programme>
-    <programme channel="发现之旅" start="20250911233000 +0800" stop="20250912000000 +0800">
-        <title lang="zh">影响未来（004-006）</title>
     </programme>
     <channel id="中学生">
         <display-name lang="zh">中学生</display-name>
@@ -2844,7 +2520,7 @@
     <programme channel="中学生" start="20250911225900 +0800" stop="20250911231000 +0800">
         <title lang="zh">《对话教育》中国好校长-张海敏</title>
     </programme>
-    <programme channel="中学生" start="20250911231000 +0800" stop="20250912000000 +0800">
+    <programme channel="中学生" start="20250911231000 +0800" stop="20250912085000 +0800">
         <title lang="zh">《家国》纪录片--王阳明</title>
     </programme>
     <channel id="CGTN">
@@ -4032,7 +3708,7 @@
     <programme channel="广东卫视" start="20250911223700 +0800" stop="20250911232000 +0800">
         <title lang="zh">大决战(31)</title>
     </programme>
-    <programme channel="广东卫视" start="20250911232000 +0800" stop="20250912000000 +0800">
+    <programme channel="广东卫视" start="20250911232000 +0800" stop="20250912010000 +0800">
         <title lang="zh">转身遇到你(7)</title>
     </programme>
     <channel id="江西卫视">
@@ -9381,47 +9057,116 @@
     <channel id="最强综艺趴">
         <display-name lang="zh">最强综艺趴</display-name>
     </channel>
-    <programme channel="最强综艺趴" start="20250911000000 +0800" stop="20250911235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="最强综艺趴" start="20250910223000 +0800" stop="20250911000100 +0800">
+        <title lang="zh">宗师列传·唐宋八大家20240126苏轼、苏辙·下</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911000100 +0800" stop="20250911005700 +0800">
+        <title lang="zh">一槌定音20240128清竹根雕癞瓜形香盒</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911005700 +0800" stop="20250911021300 +0800">
+        <title lang="zh">开门大吉20240129东北大呲花VS天津小麻花</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911021300 +0800" stop="20250911025700 +0800">
+        <title lang="zh">等着我20240130英雄功臣——李玉安</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911025700 +0800" stop="20250911034200 +0800">
+        <title lang="zh">等着我20240201英雄功臣——雷保森</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911034200 +0800" stop="20250911043800 +0800">
+        <title lang="zh">一槌定音20240204清代竹雕山水笔筒</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911043800 +0800" stop="20250911052200 +0800">
+        <title lang="zh">等着我20240204英雄功臣——王海</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911052200 +0800" stop="20250911063800 +0800">
+        <title lang="zh">开门大吉20240205天津煎饼馃子队VS大连海蛎子队</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911063800 +0800" stop="20250911075400 +0800">
+        <title lang="zh">开门大吉20240211龙年新春特辑开启！</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911075400 +0800" stop="20250911092900 +0800">
+        <title lang="zh">星光大道20240212“幸福跃龙门”2024星光嘉年华</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911092900 +0800" stop="20250911101300 +0800">
+        <title lang="zh">等着我20240115英雄功臣——唐章洪</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911101300 +0800" stop="20250911110900 +0800">
+        <title lang="zh">一槌定音20240218清代和田玉扳指</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911110900 +0800" stop="20250911122500 +0800">
+        <title lang="zh">开门大吉20240219谁不说咱家乡好</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911122500 +0800" stop="20250911134100 +0800">
+        <title lang="zh">星光大道20240224新的舞台，新的挑战</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911134100 +0800" stop="20250911143700 +0800">
+        <title lang="zh">一槌定音20240225清中期茄皮紫釉倒流壶</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911143700 +0800" stop="20250911155200 +0800">
+        <title lang="zh">开门大吉20240226猜歌不能停！</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911155200 +0800" stop="20250911170900 +0800">
+        <title lang="zh">星光大道20240302精彩周赛继续上演</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911170900 +0800" stop="20250911175300 +0800">
+        <title lang="zh">等着我20240301英雄功臣——于树昌</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911175300 +0800" stop="20250911192600 +0800">
+        <title lang="zh">宗师列传·唐宋八大家20240302王安石</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911192600 +0800" stop="20250911202200 +0800">
+        <title lang="zh">一槌定音20240303清光绪内青花外粉彩花鸟纹碗</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911202200 +0800" stop="20250911213800 +0800">
+        <title lang="zh">开门大吉20240304心怀炽热“音”为热爱</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911213800 +0800" stop="20250911231000 +0800">
+        <title lang="zh">宗师列传·唐宋八大家20240308曾巩</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20250911231000 +0800" stop="20250912002500 +0800">
+        <title lang="zh">星光大道20240309周赛火热来袭</title>
     </programme>
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20250910211700 +0800" stop="20250911060100 +0800">
+    <programme channel="嘉佳卡通" start="20250910211700 +0800" stop="20250911060000 +0800">
         <title lang="zh">喜羊羊与灰太狼之心世界奇遇(6-19)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250911060100 +0800" stop="20250911080200 +0800">
+    <programme channel="嘉佳卡通" start="20250911060000 +0800" stop="20250911080100 +0800">
         <title lang="zh">猪猪侠之竞速小英雄(六)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250911080200 +0800" stop="20250911095500 +0800">
-        <title lang="zh">超级飞侠(十八)</title>
+    <programme channel="嘉佳卡通" start="20250911080100 +0800" stop="20250911095400 +0800">
+        <title lang="zh">超级飞侠(十七)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250911095500 +0800" stop="20250911112700 +0800">
+    <programme channel="嘉佳卡通" start="20250911095400 +0800" stop="20250911112600 +0800">
         <title lang="zh">彩虹宝宝(四)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250911112700 +0800" stop="20250911140200 +0800">
-        <title lang="zh">薇薇猫的日常</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20250911140200 +0800" stop="20250911160000 +0800">
-        <title lang="zh">猪猪侠之竞速小英雄(十)</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20250911160000 +0800" stop="20250911185900 +0800">
-        <title lang="zh">猪猪侠之竞速小英雄(九)</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20250911185900 +0800" stop="20250911193700 +0800">
-        <title lang="zh">超级飞侠(十八)</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20250911193700 +0800" stop="20250911211400 +0800">
+    <programme channel="嘉佳卡通" start="20250911112600 +0800" stop="20250911140200 +0800">
         <title lang="zh">喜羊羊与灰太狼之奇侠大营救</title>
     </programme>
+    <programme channel="嘉佳卡通" start="20250911140200 +0800" stop="20250911160000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(九)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20250911160000 +0800" stop="20250911192200 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(十)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20250911192200 +0800" stop="20250911195800 +0800">
+        <title lang="zh">超级飞侠(十八)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20250911195800 +0800" stop="20250911200200 +0800">
+        <title lang="zh">大玩家-超飞职业梦想秀</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20250911200200 +0800" stop="20250911211400 +0800">
+        <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
+    </programme>
     <programme channel="嘉佳卡通" start="20250911211400 +0800" stop="20250911211700 +0800">
-        <title lang="zh">嗨!小喇叭-开元学校开学典礼</title>
+        <title lang="zh">《嗨!小喇叭》之2025朗朗读书声总展演报道</title>
     </programme>
     <programme channel="嘉佳卡通" start="20250911211700 +0800" stop="20250911211800 +0800">
         <title lang="zh">2025遇见中华诗词之美</title>
     </programme>
     <programme channel="嘉佳卡通" start="20250911211800 +0800" stop="20250912000000 +0800">
-        <title lang="zh">喜羊羊与灰太狼之奇侠大营救</title>
+        <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
