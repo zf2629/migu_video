@@ -487,7 +487,7 @@
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20250911223500 +0800" stop="20250911233500 +0800">
-        <title lang="zh">足球之夜</title>
+        <title lang="zh">足球之夜：鏖战出线 女超的黑马—国内足球专题报道</title>
     </programme>
     <programme channel="CCTV5体育" start="20250911233500 +0800" stop="20250912010500 +0800">
         <title lang="zh">实况录像-2025年世界女排锦标赛 三四名决赛</title>
@@ -1251,19 +1251,19 @@
     <programme channel="CCTV13新闻" start="20250911160000 +0800" stop="20250911170000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911170000 +0800" stop="20250911180000 +0800">
+    <programme channel="CCTV13新闻" start="20250911170000 +0800" stop="20250911180100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911180000 +0800" stop="20250911190000 +0800">
+    <programme channel="CCTV13新闻" start="20250911180100 +0800" stop="20250911190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911190000 +0800" stop="20250911194000 +0800">
+    <programme channel="CCTV13新闻" start="20250911190000 +0800" stop="20250911194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911194000 +0800" stop="20250911200000 +0800">
+    <programme channel="CCTV13新闻" start="20250911194200 +0800" stop="20250911200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911200000 +0800" stop="20250911210000 +0800">
+    <programme channel="CCTV13新闻" start="20250911200300 +0800" stop="20250911210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250911210000 +0800" stop="20250911213700 +0800">
@@ -9165,7 +9165,7 @@
     <programme channel="嘉佳卡通" start="20250911211700 +0800" stop="20250911211800 +0800">
         <title lang="zh">2025遇见中华诗词之美</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250911211800 +0800" stop="20250912000000 +0800">
+    <programme channel="嘉佳卡通" start="20250911211800 +0800" stop="20250912060000 +0800">
         <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
     </programme>
     <channel id="经典动画大集合">
