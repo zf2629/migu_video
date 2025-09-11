@@ -345,10 +345,10 @@
     <programme channel="CCTV4中文国际" start="20250911070000 +0800" stop="20250911073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250911073000 +0800" stop="20250911080000 +0800">
+    <programme channel="CCTV4中文国际" start="20250911073000 +0800" stop="20250911080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250911080000 +0800" stop="20250911090000 +0800">
+    <programme channel="CCTV4中文国际" start="20250911080100 +0800" stop="20250911090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20250911090000 +0800" stop="20250911092800 +0800">
@@ -1224,13 +1224,7 @@
     <programme channel="CCTV13新闻" start="20250911060000 +0800" stop="20250911090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250911090000 +0800" stop="20250911100000 +0800">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20250911100000 +0800" stop="20250911110000 +0800">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20250911110000 +0800" stop="20250911120000 +0800">
+    <programme channel="CCTV13新闻" start="20250911090000 +0800" stop="20250911120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250911120000 +0800" stop="20250911123300 +0800">
