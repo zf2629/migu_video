@@ -25,9 +25,12 @@ async function updatePlaybackData(program, filePath) {
 
   // 写入节目信息
   for (let i = 0; i < playbackData.length; i++) {
+    // 特殊字符转义
+    const contName = playbackData[i].contName.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll("\"", "&quot;").replaceAll("'", "&apos;");
+
     appendFileSync(filePath,
       `    <programme channel="${program.name}" start="${getDateTimeString(new Date(playbackData[i].startTime))} +0800" stop="${getDateTimeString(new Date(playbackData[i].endTime))} +0800">\n` +
-      `        <title lang="zh">${playbackData[i].contName}</title>\n` +
+      `        <title lang="zh">${contName}</title>\n` +
       `    </programme>\n`
     )
   }
