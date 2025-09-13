@@ -162,10 +162,10 @@
     <programme channel="CCTV2财经" start="20250913111300 +0800" stop="20250913113300 +0800">
         <title lang="zh">2023精品财经纪-日出之食第三季-3</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250913113300 +0800" stop="20250913120000 +0800">
+    <programme channel="CCTV2财经" start="20250913113300 +0800" stop="20250913120100 +0800">
         <title lang="zh">2023精品财经纪录-边城好味-5</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250913120000 +0800" stop="20250913130100 +0800">
+    <programme channel="CCTV2财经" start="20250913120100 +0800" stop="20250913130100 +0800">
         <title lang="zh">天下财经</title>
     </programme>
     <programme channel="CCTV2财经" start="20250913130100 +0800" stop="20250913132600 +0800">
@@ -1236,10 +1236,10 @@
     <programme channel="CCTV13新闻" start="20250913100000 +0800" stop="20250913120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913120000 +0800" stop="20250913123300 +0800">
+    <programme channel="CCTV13新闻" start="20250913120000 +0800" stop="20250913123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913123300 +0800" stop="20250913130000 +0800">
+    <programme channel="CCTV13新闻" start="20250913123500 +0800" stop="20250913130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250913130000 +0800" stop="20250913140000 +0800">
