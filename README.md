@@ -13,7 +13,7 @@ https://develop202.github.io/migu_video/interface.txt
 网络环境差的话可以用这个(不一定稳定,其他加速网站也可以)
 
 ```
-https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 ```
 
 # 免责声明
