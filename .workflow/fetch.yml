@@ -43,5 +43,5 @@ stages:
           - '# git push -f https://dream-deve:${TOKEN}@gitee.com/dream-deve/migu_video.git main:main'
           - git push
         strategy:
-          retry: '3'
+          retry: '0'
           timeout: 2
