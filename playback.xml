@@ -1254,19 +1254,19 @@
     <programme channel="CCTV13新闻" start="20250913160000 +0800" stop="20250913170000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913170000 +0800" stop="20250913180000 +0800">
+    <programme channel="CCTV13新闻" start="20250913170000 +0800" stop="20250913180300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913180000 +0800" stop="20250913190000 +0800">
+    <programme channel="CCTV13新闻" start="20250913180300 +0800" stop="20250913190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913190000 +0800" stop="20250913194000 +0800">
+    <programme channel="CCTV13新闻" start="20250913190000 +0800" stop="20250913194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913194000 +0800" stop="20250913200000 +0800">
+    <programme channel="CCTV13新闻" start="20250913194200 +0800" stop="20250913200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250913200000 +0800" stop="20250913210000 +0800">
+    <programme channel="CCTV13新闻" start="20250913200300 +0800" stop="20250913210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250913210000 +0800" stop="20250913213000 +0800">
@@ -9369,53 +9369,80 @@
     <programme channel="经典动画大集合" start="20250913135300 +0800" stop="20250913154200 +0800">
         <title lang="zh">电影《大闹天宫》</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913154200 +0800" stop="20250913164200 +0800">
+    <programme channel="经典动画大集合" start="20250913154200 +0800" stop="20250913163000 +0800">
         <title lang="zh">电影《哪吒闹海》</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913164200 +0800" stop="20250913174300 +0800">
-        <title lang="zh">电影《哪吒闹海》</title>
+    <programme channel="经典动画大集合" start="20250913163000 +0800" stop="20250913165000 +0800">
+        <title lang="zh">《小鲤鱼历险记》第10集：演出前夜</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913174300 +0800" stop="20250913180200 +0800">
-        <title lang="zh">电影《三个和尚》</title>
+    <programme channel="经典动画大集合" start="20250913165000 +0800" stop="20250913170900 +0800">
+        <title lang="zh">《小鲤鱼历险记》第11集：大闹庆典</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913180200 +0800" stop="20250913182900 +0800">
-        <title lang="zh">《丁丁战猴王》</title>
+    <programme channel="经典动画大集合" start="20250913170900 +0800" stop="20250913172800 +0800">
+        <title lang="zh">《小鲤鱼历险记》第11集：大闹庆典</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913182900 +0800" stop="20250913184500 +0800">
-        <title lang="zh">电影《狼来了》</title>
+    <programme channel="经典动画大集合" start="20250913172800 +0800" stop="20250913174800 +0800">
+        <title lang="zh">《小鲤鱼历险记》第12集：金色鳞片</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913184500 +0800" stop="20250913192400 +0800">
-        <title lang="zh">《草原英雄小姐妹》</title>
+    <programme channel="经典动画大集合" start="20250913174800 +0800" stop="20250913180700 +0800">
+        <title lang="zh">《小鲤鱼历险记》第13集：走向何处</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913192400 +0800" stop="20250913193400 +0800">
-        <title lang="zh">电影《老狼请客》</title>
+    <programme channel="经典动画大集合" start="20250913180700 +0800" stop="20250913182700 +0800">
+        <title lang="zh">《小鲤鱼历险记》第14集：金蟾乐园</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913193400 +0800" stop="20250913195500 +0800">
-        <title lang="zh">电影《神笔》</title>
+    <programme channel="经典动画大集合" start="20250913182700 +0800" stop="20250913184600 +0800">
+        <title lang="zh">《小鲤鱼历险记》第15集：祸从天降</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913195500 +0800" stop="20250913201900 +0800">
-        <title lang="zh">电影《济公斗蟋蟀》</title>
+    <programme channel="经典动画大集合" start="20250913184600 +0800" stop="20250913190600 +0800">
+        <title lang="zh">《小鲤鱼历险记》第16集：重返蛇窟</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913201900 +0800" stop="20250913204400 +0800">
-        <title lang="zh">电影《九色鹿》</title>
+    <programme channel="经典动画大集合" start="20250913190600 +0800" stop="20250913192500 +0800">
+        <title lang="zh">《小鲤鱼历险记》第17集：寻踪觅迹</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913204400 +0800" stop="20250913211000 +0800">
-        <title lang="zh">电影《人参娃娃》</title>
+    <programme channel="经典动画大集合" start="20250913192500 +0800" stop="20250913194400 +0800">
+        <title lang="zh">《小鲤鱼历险记》第18集：宝石蓝鳞</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913211000 +0800" stop="20250913212500 +0800">
-        <title lang="zh">电影《曹冲称象》</title>
+    <programme channel="经典动画大集合" start="20250913194400 +0800" stop="20250913200300 +0800">
+        <title lang="zh">《小鲤鱼历险记》第19集：金蟾复仇</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913212500 +0800" stop="20250913225300 +0800">
-        <title lang="zh">电影《金猴降妖》</title>
+    <programme channel="经典动画大集合" start="20250913200300 +0800" stop="20250913202200 +0800">
+        <title lang="zh">《小鲤鱼历险记》第20集：水葫芦泽</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913225300 +0800" stop="20250913231500 +0800">
-        <title lang="zh">电影《猪八戒吃瓜》</title>
+    <programme channel="经典动画大集合" start="20250913202200 +0800" stop="20250913204200 +0800">
+        <title lang="zh">《小鲤鱼历险记》第21集：黑洞水蝎</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913231500 +0800" stop="20250913235900 +0800">
-        <title lang="zh">《人参果》</title>
+    <programme channel="经典动画大集合" start="20250913204200 +0800" stop="20250913210100 +0800">
+        <title lang="zh">《小鲤鱼历险记》第22集：海市蜃楼</title>
     </programme>
-    <programme channel="经典动画大集合" start="20250913235900 +0800" stop="20250914000000 +0800">
-        <title lang="zh">电影《小鲤鱼跳龙门》</title>
+    <programme channel="经典动画大集合" start="20250913210100 +0800" stop="20250913212100 +0800">
+        <title lang="zh">《小鲤鱼历险记》第23集：遭遇忘情</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913212100 +0800" stop="20250913214000 +0800">
+        <title lang="zh">《小鲤鱼历险记》第24集：龙鳞之谜</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913214000 +0800" stop="20250913220000 +0800">
+        <title lang="zh">《小鲤鱼历险记》第25集：瞒天过海</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913220000 +0800" stop="20250913221900 +0800">
+        <title lang="zh">《小鲤鱼历险记》第26集：白雪芦花</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913221900 +0800" stop="20250913223800 +0800">
+        <title lang="zh">《小鲤鱼历险记》第27集：火山天池</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913223800 +0800" stop="20250913225800 +0800">
+        <title lang="zh">《小鲤鱼历险记》第28集：三头凤鸣</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913225800 +0800" stop="20250913231700 +0800">
+        <title lang="zh">《小鲤鱼历险记》第29集：金头雕翎</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913231700 +0800" stop="20250913233700 +0800">
+        <title lang="zh">《小鲤鱼历险记》第30集：再放光芒</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913233700 +0800" stop="20250913235600 +0800">
+        <title lang="zh">《小鲤鱼历险记》第31集：浴火重生</title>
+    </programme>
+    <programme channel="经典动画大集合" start="20250913235600 +0800" stop="20250914000500 +0800">
+        <title lang="zh">《小鲤鱼历险记》第32集：卑鄙“双雄”</title>
     </programme>
     <channel id="新动力量创一流">
         <display-name lang="zh">新动力量创一流</display-name>
