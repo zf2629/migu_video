@@ -195,10 +195,10 @@
     <programme channel="CCTV2财经" start="20250914180000 +0800" stop="20250914190000 +0800">
         <title lang="zh">一槌定音-2025-37</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250914190000 +0800" stop="20250914200000 +0800">
+    <programme channel="CCTV2财经" start="20250914190000 +0800" stop="20250914200300 +0800">
         <title lang="zh">职场健康课-2025-37</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250914200000 +0800" stop="20250914203000 +0800">
+    <programme channel="CCTV2财经" start="20250914200300 +0800" stop="20250914203000 +0800">
         <title lang="zh">财经调查</title>
     </programme>
     <programme channel="CCTV2财经" start="20250914203000 +0800" stop="20250914213000 +0800">
@@ -1260,19 +1260,19 @@
     <programme channel="CCTV13新闻" start="20250914160000 +0800" stop="20250914170000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914170000 +0800" stop="20250914180000 +0800">
+    <programme channel="CCTV13新闻" start="20250914170000 +0800" stop="20250914180200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914180000 +0800" stop="20250914190000 +0800">
+    <programme channel="CCTV13新闻" start="20250914180200 +0800" stop="20250914190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250914190000 +0800" stop="20250914194000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914194000 +0800" stop="20250914200000 +0800">
+    <programme channel="CCTV13新闻" start="20250914194000 +0800" stop="20250914200200 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914200000 +0800" stop="20250914210000 +0800">
+    <programme channel="CCTV13新闻" start="20250914200200 +0800" stop="20250914210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250914210000 +0800" stop="20250914213000 +0800">
