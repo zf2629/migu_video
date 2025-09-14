@@ -1239,10 +1239,10 @@
     <programme channel="CCTV13新闻" start="20250914100000 +0800" stop="20250914120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914120000 +0800" stop="20250914123500 +0800">
+    <programme channel="CCTV13新闻" start="20250914120000 +0800" stop="20250914123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250914123500 +0800" stop="20250914130000 +0800">
+    <programme channel="CCTV13新闻" start="20250914123600 +0800" stop="20250914130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250914130000 +0800" stop="20250914140000 +0800">
