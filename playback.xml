@@ -345,10 +345,10 @@
     <programme channel="CCTV4中文国际" start="20250914070000 +0800" stop="20250914073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250914073000 +0800" stop="20250914080000 +0800">
+    <programme channel="CCTV4中文国际" start="20250914073000 +0800" stop="20250914080200 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250914080000 +0800" stop="20250914090000 +0800">
+    <programme channel="CCTV4中文国际" start="20250914080200 +0800" stop="20250914090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20250914090000 +0800" stop="20250914092700 +0800">
