@@ -207,10 +207,10 @@
     <programme channel="CCTV2财经" start="20250915190000 +0800" stop="20250915193000 +0800">
         <title lang="zh">生财有道-2025-9-15</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250915193000 +0800" stop="20250915200000 +0800">
+    <programme channel="CCTV2财经" start="20250915193000 +0800" stop="20250915200100 +0800">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme channel="CCTV2财经" start="20250915200000 +0800" stop="20250915213000 +0800">
+    <programme channel="CCTV2财经" start="20250915200100 +0800" stop="20250915213000 +0800">
         <title lang="zh">2025年9·15“中国质量 品质生活”晚会-1</title>
     </programme>
     <programme channel="CCTV2财经" start="20250915213000 +0800" stop="20250915215600 +0800">
@@ -1275,13 +1275,13 @@
     <programme channel="CCTV13新闻" start="20250915180000 +0800" stop="20250915190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250915190000 +0800" stop="20250915194000 +0800">
+    <programme channel="CCTV13新闻" start="20250915190000 +0800" stop="20250915194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250915194000 +0800" stop="20250915200000 +0800">
+    <programme channel="CCTV13新闻" start="20250915194200 +0800" stop="20250915200200 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250915200000 +0800" stop="20250915210000 +0800">
+    <programme channel="CCTV13新闻" start="20250915200200 +0800" stop="20250915210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250915210000 +0800" stop="20250915213000 +0800">
