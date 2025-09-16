@@ -57,10 +57,10 @@
     <programme channel="CCTV1综合" start="20250916115400 +0800" stop="20250916120000 +0800">
         <title lang="zh">2024秘境之眼-203</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250916120000 +0800" stop="20250916123500 +0800">
+    <programme channel="CCTV1综合" start="20250916120000 +0800" stop="20250916123900 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250916123500 +0800" stop="20250916131100 +0800">
+    <programme channel="CCTV1综合" start="20250916123900 +0800" stop="20250916131100 +0800">
         <title lang="zh">今日说法-2025-179</title>
     </programme>
     <programme channel="CCTV1综合" start="20250916131100 +0800" stop="20250916135900 +0800">
@@ -1221,10 +1221,10 @@
     <programme channel="CCTV13新闻" start="20250916090000 +0800" stop="20250916120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916120000 +0800" stop="20250916123300 +0800">
+    <programme channel="CCTV13新闻" start="20250916120000 +0800" stop="20250916123400 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916123300 +0800" stop="20250916130000 +0800">
+    <programme channel="CCTV13新闻" start="20250916123400 +0800" stop="20250916130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250916130000 +0800" stop="20250916140000 +0800">
@@ -5226,80 +5226,80 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20250915230000 +0800" stop="20250916000400 +0800">
-        <title lang="zh">32集连续剧：特别行动（21）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20250916000400 +0800" stop="20250916004500 +0800">
+    <programme channel="上视东方影视" start="20250915235200 +0800" stop="20250916003300 +0800">
         <title lang="zh">32集连续剧：特别行动（22）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916004500 +0800" stop="20250916060100 +0800">
+    <programme channel="上视东方影视" start="20250916003300 +0800" stop="20250916060600 +0800">
         <title lang="zh">32集连续剧：特别行动（23）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916060100 +0800" stop="20250916065400 +0800">
+    <programme channel="上视东方影视" start="20250916060600 +0800" stop="20250916065700 +0800">
         <title lang="zh">50集连续剧：飞哥战队（14）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916065400 +0800" stop="20250916075400 +0800">
+    <programme channel="上视东方影视" start="20250916065700 +0800" stop="20250916075600 +0800">
         <title lang="zh">50集连续剧：飞哥战队（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916075400 +0800" stop="20250916084700 +0800">
+    <programme channel="上视东方影视" start="20250916075600 +0800" stop="20250916084600 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916084700 +0800" stop="20250916094000 +0800">
+    <programme channel="上视东方影视" start="20250916084600 +0800" stop="20250916093800 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916094000 +0800" stop="20250916103700 +0800">
+    <programme channel="上视东方影视" start="20250916093800 +0800" stop="20250916103300 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916103700 +0800" stop="20250916113400 +0800">
+    <programme channel="上视东方影视" start="20250916103300 +0800" stop="20250916113000 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（35）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916113400 +0800" stop="20250916122000 +0800">
+    <programme channel="上视东方影视" start="20250916113000 +0800" stop="20250916122000 +0800">
         <title lang="zh">36集连续剧：铁血尖刀（36）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916122000 +0800" stop="20250916123500 +0800">
-        <title lang="zh">超级装</title>
+    <programme channel="上视东方影视" start="20250916122000 +0800" stop="20250916124000 +0800">
+        <title lang="zh">《超级装》</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916123500 +0800" stop="20250916132300 +0800">
+    <programme channel="上视东方影视" start="20250916124000 +0800" stop="20250916133000 +0800">
         <title lang="zh">30集连续剧：智者无敌（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916132300 +0800" stop="20250916133300 +0800">
+    <programme channel="上视东方影视" start="20250916133000 +0800" stop="20250916134200 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916133300 +0800" stop="20250916143100 +0800">
+    <programme channel="上视东方影视" start="20250916134200 +0800" stop="20250916143500 +0800">
         <title lang="zh">30集连续剧：智者无敌（7）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916143100 +0800" stop="20250916152800 +0800">
+    <programme channel="上视东方影视" start="20250916143500 +0800" stop="20250916152800 +0800">
         <title lang="zh">30集连续剧：智者无敌（8）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916152800 +0800" stop="20250916162200 +0800">
+    <programme channel="上视东方影视" start="20250916152800 +0800" stop="20250916162400 +0800">
         <title lang="zh">32集连续剧：烽火连城决（31）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916162200 +0800" stop="20250916171600 +0800">
+    <programme channel="上视东方影视" start="20250916162400 +0800" stop="20250916171600 +0800">
         <title lang="zh">32集连续剧：烽火连城决（32）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916171600 +0800" stop="20250916180500 +0800">
+    <programme channel="上视东方影视" start="20250916171600 +0800" stop="20250916180800 +0800">
         <title lang="zh">34集连续剧：终极对决（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916180500 +0800" stop="20250916185000 +0800">
+    <programme channel="上视东方影视" start="20250916180800 +0800" stop="20250916185000 +0800">
         <title lang="zh">34集连续剧：终极对决（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916185000 +0800" stop="20250916194200 +0800">
+    <programme channel="上视东方影视" start="20250916185000 +0800" stop="20250916193600 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916194200 +0800" stop="20250916203400 +0800">
+    <programme channel="上视东方影视" start="20250916193600 +0800" stop="20250916202900 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916203400 +0800" stop="20250916212300 +0800">
+    <programme channel="上视东方影视" start="20250916202900 +0800" stop="20250916212200 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916212300 +0800" stop="20250916221000 +0800">
+    <programme channel="上视东方影视" start="20250916212200 +0800" stop="20250916221700 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916221000 +0800" stop="20250916230000 +0800">
+    <programme channel="上视东方影视" start="20250916221700 +0800" stop="20250916230800 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250916230000 +0800" stop="20250917000400 +0800">
+    <programme channel="上视东方影视" start="20250916230800 +0800" stop="20250916235100 +0800">
         <title lang="zh">32集连续剧：特别行动（24）</title>
+    </programme>
+    <programme channel="上视东方影视" start="20250916235100 +0800" stop="20250917003300 +0800">
+        <title lang="zh">32集连续剧：特别行动（25）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
@@ -6882,95 +6882,89 @@
     <channel id="优漫卡通频道">
         <display-name lang="zh">优漫卡通频道</display-name>
     </channel>
-    <programme channel="优漫卡通频道" start="20250916000000 +0800" stop="20250916040000 +0800">
-        <title lang="zh">新大头儿子和小头爸爸之英雄梦1</title>
+    <programme channel="优漫卡通频道" start="20250916000000 +0800" stop="20250916003000 +0800">
+        <title lang="zh">棉花糖和云朵妈妈暖心回响  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916040000 +0800" stop="20250916050000 +0800">
-        <title lang="zh">新大头儿子和小头爸爸之英雄梦2</title>
+    <programme channel="优漫卡通频道" start="20250916003000 +0800" stop="20250916010000 +0800">
+        <title lang="zh">萌鸡小队  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916050000 +0800" stop="20250916060000 +0800">
-        <title lang="zh">帮帮龙出动</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250916060000 +0800" stop="20250916070000 +0800">
-        <title lang="zh">猪猪侠之超星五灵侠</title>
+    <programme channel="优漫卡通频道" start="20250916010000 +0800" stop="20250916070000 +0800">
+        <title lang="zh">新大头儿子小头爸爸智能小当家</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916070000 +0800" stop="20250916080000 +0800">
-        <title lang="zh">嘟当曼</title>
+        <title lang="zh">猪猪侠超星五灵侠 </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916080000 +0800" stop="20250916090500 +0800">
-        <title lang="zh">超级飞侠</title>
+    <programme channel="优漫卡通频道" start="20250916080000 +0800" stop="20250916081500 +0800">
+        <title lang="zh">量子战队之恐龙守护2  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916090500 +0800" stop="20250916100000 +0800">
-        <title lang="zh">智能小当家</title>
+    <programme channel="优漫卡通频道" start="20250916081500 +0800" stop="20250916083000 +0800">
+        <title lang="zh">超级飞侠18  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916100000 +0800" stop="20250916102500 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250916083000 +0800" stop="20250916090000 +0800">
+        <title lang="zh">棉花糖和云朵妈妈暖心回响 </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916102500 +0800" stop="20250916110000 +0800">
-        <title lang="zh">百变校巴</title>
+    <programme channel="优漫卡通频道" start="20250916090000 +0800" stop="20250916100000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916110000 +0800" stop="20250916121000 +0800">
-        <title lang="zh">天眼归来</title>
+    <programme channel="优漫卡通频道" start="20250916100000 +0800" stop="20250916110000 +0800">
+        <title lang="zh">灵梦叶罗丽  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916121000 +0800" stop="20250916123000 +0800">
-        <title lang="zh">萌鸡小队</title>
+    <programme channel="优漫卡通频道" start="20250916110000 +0800" stop="20250916120000 +0800">
+        <title lang="zh">猪猪侠超星五灵侠  </title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250916120000 +0800" stop="20250916123000 +0800">
+        <title lang="zh">萌鸡小队  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916123000 +0800" stop="20250916125500 +0800">
-        <title lang="zh">来玩吧</title>
+        <title lang="zh">来玩吧  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916125500 +0800" stop="20250916140000 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916140000 +0800" stop="20250916150000 +0800">
-        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
+        <title lang="zh">精灵梦叶罗丽  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916150000 +0800" stop="20250916160000 +0800">
-        <title lang="zh">海底小纵队</title>
+        <title lang="zh">猪猪侠超星五灵侠  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916160000 +0800" stop="20250916170300 +0800">
-        <title lang="zh">超级飞侠</title>
+    <programme channel="优漫卡通频道" start="20250916160000 +0800" stop="20250916170000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916170300 +0800" stop="20250916175000 +0800">
-        <title lang="zh">百变布鲁可</title>
+    <programme channel="优漫卡通频道" start="20250916170000 +0800" stop="20250916180000 +0800">
+        <title lang="zh">新大头儿子小头爸爸英雄梦  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916175000 +0800" stop="20250916181500 +0800">
-        <title lang="zh">来玩吧</title>
+    <programme channel="优漫卡通频道" start="20250916180000 +0800" stop="20250916182500 +0800">
+        <title lang="zh">来玩吧  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916181500 +0800" stop="20250916183000 +0800">
-        <title lang="zh">超变战陀之百变战陀</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250916183000 +0800" stop="20250916184500 +0800">
-        <title lang="zh">寻梦泡泡岛</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250916184500 +0800" stop="20250916190000 +0800">
-        <title lang="zh">家有灶君</title>
+    <programme channel="优漫卡通频道" start="20250916182500 +0800" stop="20250916190000 +0800">
+        <title lang="zh">萌鸡小队  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916190000 +0800" stop="20250916190500 +0800">
-        <title lang="zh">来玩吧</title>
+        <title lang="zh">来玩吧  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916190500 +0800" stop="20250916192000 +0800">
-        <title lang="zh">量子战队之恐龙守护</title>
+        <title lang="zh">量子战队之恐龙守护2  </title>
     </programme>
     <programme channel="优漫卡通频道" start="20250916192000 +0800" stop="20250916193500 +0800">
-        <title lang="zh">心奇爆龙战车之超斗爆龙</title>
+        <title lang="zh">超级飞侠18  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916193500 +0800" stop="20250916195000 +0800">
-        <title lang="zh">超元绝战之传说卡</title>
+    <programme channel="优漫卡通频道" start="20250916193500 +0800" stop="20250916200500 +0800">
+        <title lang="zh">棉花糖和云朵妈妈暖心回响  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916195000 +0800" stop="20250916200500 +0800">
-        <title lang="zh">少年英雄小哪吒</title>
+    <programme channel="优漫卡通频道" start="20250916200500 +0800" stop="20250916210000 +0800">
+        <title lang="zh">开心超人联盟之勇敢之城  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916200500 +0800" stop="20250916203500 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+    <programme channel="优漫卡通频道" start="20250916210000 +0800" stop="20250916220000 +0800">
+        <title lang="zh">猪猪侠超星五灵侠 </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916203500 +0800" stop="20250916210000 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250916220000 +0800" stop="20250916233000 +0800">
+        <title lang="zh">天才基本法   </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916210000 +0800" stop="20250916221200 +0800">
-        <title lang="zh">乌龙院之活宝传奇</title>
+    <programme channel="优漫卡通频道" start="20250916233000 +0800" stop="20250916234500 +0800">
+        <title lang="zh">量子战队之恐龙守护2  </title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250916221200 +0800" stop="20250917000000 +0800">
-        <title lang="zh">梦在海这边</title>
+    <programme channel="优漫卡通频道" start="20250916234500 +0800" stop="20250917000000 +0800">
+        <title lang="zh">超级飞侠18  </title>
     </programme>
     <channel id="江阴新闻综合">
         <display-name lang="zh">江阴新闻综合</display-name>
@@ -8803,7 +8797,7 @@
         <title lang="zh">职教中国</title>
     </programme>
     <programme channel="CETV4" start="20250916024500 +0800" stop="20250916031500 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <programme channel="CETV4" start="20250916031500 +0800" stop="20250916034500 +0800">
         <title lang="zh">体谈</title>
@@ -8824,7 +8818,7 @@
         <title lang="zh">职教中国</title>
     </programme>
     <programme channel="CETV4" start="20250916070000 +0800" stop="20250916073000 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <programme channel="CETV4" start="20250916073000 +0800" stop="20250916080000 +0800">
         <title lang="zh">体谈</title>
@@ -8833,7 +8827,7 @@
         <title lang="zh">国医名师课</title>
     </programme>
     <programme channel="CETV4" start="20250916083000 +0800" stop="20250916091500 +0800">
-        <title lang="zh">职教中国</title>
+        <title lang="zh">文化的力量</title>
     </programme>
     <programme channel="CETV4" start="20250916091500 +0800" stop="20250916093000 +0800">
         <title lang="zh">墨香</title>
@@ -8920,7 +8914,7 @@
         <title lang="zh">体谈</title>
     </programme>
     <programme channel="CETV4" start="20250916234000 +0800" stop="20250917000000 +0800">
-        <title lang="zh">蹦蹦跳跳爱健康</title>
+        <title lang="zh">疾风少年</title>
     </programme>
     <channel id="熊猫频道01高清">
         <display-name lang="zh">熊猫频道01高清</display-name>
