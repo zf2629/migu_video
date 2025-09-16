@@ -1239,19 +1239,19 @@
     <programme channel="CCTV13新闻" start="20250916160000 +0800" stop="20250916170000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916170000 +0800" stop="20250916180000 +0800">
+    <programme channel="CCTV13新闻" start="20250916170000 +0800" stop="20250916180100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916180000 +0800" stop="20250916190000 +0800">
+    <programme channel="CCTV13新闻" start="20250916180100 +0800" stop="20250916190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916190000 +0800" stop="20250916194000 +0800">
+    <programme channel="CCTV13新闻" start="20250916190000 +0800" stop="20250916194300 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916194000 +0800" stop="20250916200000 +0800">
+    <programme channel="CCTV13新闻" start="20250916194300 +0800" stop="20250916200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250916200000 +0800" stop="20250916210000 +0800">
+    <programme channel="CCTV13新闻" start="20250916200300 +0800" stop="20250916210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250916210000 +0800" stop="20250916213000 +0800">
