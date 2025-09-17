@@ -1206,13 +1206,7 @@
     <programme channel="CCTV13新闻" start="20250917060000 +0800" stop="20250917090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250917090000 +0800" stop="20250917100000 +0800">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20250917100000 +0800" stop="20250917110000 +0800">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20250917110000 +0800" stop="20250917120000 +0800">
+    <programme channel="CCTV13新闻" start="20250917090000 +0800" stop="20250917120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250917120000 +0800" stop="20250917123300 +0800">
