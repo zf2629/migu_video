@@ -4464,22 +4464,22 @@
     <programme channel="青海卫视" start="20250917084600 +0800" stop="20250917093500 +0800">
         <title lang="zh">昆仑剧场:薛丁山28</title>
     </programme>
-    <programme channel="青海卫视" start="20250917093500 +0800" stop="20250917102400 +0800">
+    <programme channel="青海卫视" start="20250917093500 +0800" stop="20250917102300 +0800">
         <title lang="zh">昆仑剧场:薛丁山29</title>
     </programme>
-    <programme channel="青海卫视" start="20250917102400 +0800" stop="20250917112300 +0800">
+    <programme channel="青海卫视" start="20250917102300 +0800" stop="20250917112400 +0800">
         <title lang="zh">昆仑剧场:薛丁山30</title>
     </programme>
-    <programme channel="青海卫视" start="20250917112300 +0800" stop="20250917123000 +0800">
+    <programme channel="青海卫视" start="20250917112400 +0800" stop="20250917123000 +0800">
         <title lang="zh">昆仑剧场:薛丁山31</title>
     </programme>
-    <programme channel="青海卫视" start="20250917123000 +0800" stop="20250917125500 +0800">
+    <programme channel="青海卫视" start="20250917123000 +0800" stop="20250917125700 +0800">
         <title lang="zh">午间360</title>
     </programme>
-    <programme channel="青海卫视" start="20250917125500 +0800" stop="20250917135600 +0800">
+    <programme channel="青海卫视" start="20250917125700 +0800" stop="20250917134900 +0800">
         <title lang="zh">郁金香剧场:薛丁山32</title>
     </programme>
-    <programme channel="青海卫视" start="20250917135600 +0800" stop="20250917145200 +0800">
+    <programme channel="青海卫视" start="20250917134900 +0800" stop="20250917145200 +0800">
         <title lang="zh">郁金香剧场:薛丁山33</title>
     </programme>
     <programme channel="青海卫视" start="20250917145200 +0800" stop="20250917155000 +0800">
@@ -6445,7 +6445,7 @@
         <title lang="zh">文化星空</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917080000 +0800" stop="20250917083500 +0800">
-        <title lang="zh">车行天下</title>
+        <title lang="zh">有事报道(重播)</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917083500 +0800" stop="20250917121500 +0800">
         <title lang="zh">电视剧</title>
@@ -6454,13 +6454,13 @@
         <title lang="zh">今日观察</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917123000 +0800" stop="20250917132000 +0800">
-        <title lang="zh">国际时尚汇+车行天下</title>
+        <title lang="zh">国际时尚汇+淮安房产</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917132000 +0800" stop="20250917163000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917163000 +0800" stop="20250917170200 +0800">
-        <title lang="zh">乡村法制</title>
+        <title lang="zh">致富故事会</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917170200 +0800" stop="20250917173800 +0800">
         <title lang="zh">方特大世界</title>
@@ -6481,13 +6481,13 @@
         <title lang="zh">第一剧场</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917203200 +0800" stop="20250917213000 +0800">
-        <title lang="zh">文化星空走进现场</title>
+        <title lang="zh">第一剧场</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917213000 +0800" stop="20250917214700 +0800">
         <title lang="zh">淮安新闻联播(重播)</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917214700 +0800" stop="20250917222800 +0800">
-        <title lang="zh">魅力乡村</title>
+        <title lang="zh">今日观察</title>
     </programme>
     <programme channel="淮安新闻综合" start="20250917222800 +0800" stop="20250917224500 +0800">
         <title lang="zh">天气预报+淮安房产</title>
@@ -6717,20 +6717,17 @@
     <programme channel="徐州新闻综合" start="20250916213000 +0800" stop="20250917061000 +0800">
         <title lang="zh">徐州夜新闻</title>
     </programme>
-    <programme channel="徐州新闻综合" start="20250917061000 +0800" stop="20250917070000 +0800">
+    <programme channel="徐州新闻综合" start="20250917061000 +0800" stop="20250917070100 +0800">
         <title lang="zh">开机宣传片</title>
     </programme>
-    <programme channel="徐州新闻综合" start="20250917070000 +0800" stop="20250917070100 +0800">
-        <title lang="zh">国歌</title>
-    </programme>
     <programme channel="徐州新闻综合" start="20250917070100 +0800" stop="20250917080000 +0800">
-        <title lang="zh">徐州新闻</title>
+        <title lang="zh">徐州新闻(复播)</title>
     </programme>
     <programme channel="徐州新闻综合" start="20250917080000 +0800" stop="20250917123000 +0800">
         <title lang="zh">家庭剧场</title>
     </programme>
     <programme channel="徐州新闻综合" start="20250917123000 +0800" stop="20250917140000 +0800">
-        <title lang="zh">政风热线·督办榜</title>
+        <title lang="zh">直播徐州</title>
     </programme>
     <programme channel="徐州新闻综合" start="20250917140000 +0800" stop="20250917180000 +0800">
         <title lang="zh">家庭剧场</title>
