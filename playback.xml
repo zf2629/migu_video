@@ -4230,116 +4230,143 @@
     <channel id="吉林卫视">
         <display-name lang="zh">吉林卫视</display-name>
     </channel>
-    <programme channel="吉林卫视" start="20250917233900 +0800" stop="20250918002400 +0800">
+    <programme channel="吉林卫视" start="20250917233900 +0800" stop="20250918002000 +0800">
         <title lang="zh">凌晨剧场</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918002400 +0800" stop="20250918005400 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918002000 +0800" stop="20250918005000 +0800">
+        <title lang="zh">八零九零(48)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918005400 +0800" stop="20250918012400 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918005000 +0800" stop="20250918012000 +0800">
+        <title lang="zh">紧急公关(1)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918012400 +0800" stop="20250918015400 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918012000 +0800" stop="20250918014800 +0800">
+        <title lang="zh">紧急公关(2)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918015400 +0800" stop="20250918032200 +0800">
-        <title lang="zh">凌晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918032200 +0800" stop="20250918035200 +0800">
-        <title lang="zh">清晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918035200 +0800" stop="20250918042200 +0800">
-        <title lang="zh">清晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918042200 +0800" stop="20250918050200 +0800">
-        <title lang="zh">清晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918050200 +0800" stop="20250918060000 +0800">
-        <title lang="zh">清晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918060000 +0800" stop="20250918063000 +0800">
-        <title lang="zh">清晨剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918063000 +0800" stop="20250918070000 +0800">
-        <title lang="zh">吉林新闻联播</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918070000 +0800" stop="20250918070100 +0800">
-        <title lang="zh">中华人民共和国国歌</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918070100 +0800" stop="20250918074100 +0800">
-        <title lang="zh">新闻早报</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918074100 +0800" stop="20250918083300 +0800">
-        <title lang="zh">田园剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918083300 +0800" stop="20250918093400 +0800">
-        <title lang="zh">田园剧场</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918093400 +0800" stop="20250918102600 +0800">
-        <title lang="zh">上午剧场:天龙八部(35)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918102600 +0800" stop="20250918111800 +0800">
-        <title lang="zh">上午剧场:天龙八部(36)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918111800 +0800" stop="20250918121100 +0800">
-        <title lang="zh">上午剧场:天龙八部(37)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918121100 +0800" stop="20250918121700 +0800">
-        <title lang="zh">卫视气象站</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918121700 +0800" stop="20250918130900 +0800">
-        <title lang="zh">上午剧场:天龙八部(38)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918130900 +0800" stop="20250918134000 +0800">
-        <title lang="zh">花儿朵朵</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918134000 +0800" stop="20250918143100 +0800">
-        <title lang="zh">下午剧场:打狗棍(49)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918143100 +0800" stop="20250918152300 +0800">
-        <title lang="zh">下午剧场:打狗棍(50)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918152300 +0800" stop="20250918161500 +0800">
-        <title lang="zh">下午剧场:打狗棍(51)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918161500 +0800" stop="20250918170600 +0800">
-        <title lang="zh">下午剧场:打狗棍(52)</title>
-    </programme>
-    <programme channel="吉林卫视" start="20250918170600 +0800" stop="20250918175300 +0800">
+    <programme channel="吉林卫视" start="20250918014800 +0800" stop="20250918025900 +0800">
         <title lang="zh">欢乐送</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918175300 +0800" stop="20250918181200 +0800">
-        <title lang="zh">情动十分</title>
+    <programme channel="吉林卫视" start="20250918025900 +0800" stop="20250918032900 +0800">
+        <title lang="zh">薛平贵与王宝钏(57)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918181200 +0800" stop="20250918182300 +0800">
+    <programme channel="吉林卫视" start="20250918032900 +0800" stop="20250918035900 +0800">
+        <title lang="zh">薛平贵与王宝钏(58)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918035900 +0800" stop="20250918043000 +0800">
+        <title lang="zh">薛平贵与王宝钏(59)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918043000 +0800" stop="20250918050000 +0800">
+        <title lang="zh">薛平贵与王宝钏(60)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918050000 +0800" stop="20250918053000 +0800">
+        <title lang="zh">薛平贵与王宝钏(61)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918053000 +0800" stop="20250918061500 +0800">
+        <title lang="zh">南来北往(1)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918061500 +0800" stop="20250918063000 +0800">
+        <title lang="zh">今晚</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918063000 +0800" stop="20250918070100 +0800">
+        <title lang="zh">吉林新闻联播</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918070100 +0800" stop="20250918073000 +0800">
+        <title lang="zh">新闻早报</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918073000 +0800" stop="20250918081900 +0800">
+        <title lang="zh">东北抗联(1):暗夜星火</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918081900 +0800" stop="20250918085000 +0800">
+        <title lang="zh">上午剧场:天龙八部(37)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918085000 +0800" stop="20250918092300 +0800">
+        <title lang="zh">上午剧场:天龙八部(38)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918092300 +0800" stop="20250918095400 +0800">
+        <title lang="zh">上午剧场:天龙八部(39)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918095400 +0800" stop="20250918102400 +0800">
+        <title lang="zh">上午剧场:天龙八部(40)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918102400 +0800" stop="20250918105500 +0800">
+        <title lang="zh">上午剧场:天龙八部(41)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918105500 +0800" stop="20250918112900 +0800">
+        <title lang="zh">上午剧场:天龙八部(42)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918112900 +0800" stop="20250918120000 +0800">
+        <title lang="zh">上午剧场:天龙八部(43)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918120000 +0800" stop="20250918121500 +0800">
+        <title lang="zh">正午吉林</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918121500 +0800" stop="20250918124600 +0800">
+        <title lang="zh">下午剧场:打狗棍(60)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918124600 +0800" stop="20250918131600 +0800">
+        <title lang="zh">下午剧场:打狗棍(61)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918131600 +0800" stop="20250918134600 +0800">
+        <title lang="zh">下午剧场:打狗棍(62)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918134600 +0800" stop="20250918141900 +0800">
+        <title lang="zh">下午剧场:打狗棍(63)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918141900 +0800" stop="20250918145300 +0800">
+        <title lang="zh">下午剧场:打狗棍(64)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918145300 +0800" stop="20250918152600 +0800">
+        <title lang="zh">下午剧场:打狗棍(65)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918152600 +0800" stop="20250918160000 +0800">
+        <title lang="zh">下午剧场:打狗棍(66)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918160000 +0800" stop="20250918163200 +0800">
+        <title lang="zh">下午剧场:打狗棍(67)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918163200 +0800" stop="20250918170300 +0800">
+        <title lang="zh">下午剧场:打狗棍(68)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918170300 +0800" stop="20250918181600 +0800">
+        <title lang="zh">欢乐送</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918181600 +0800" stop="20250918182400 +0800">
         <title lang="zh">吉林体彩</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918182300 +0800" stop="20250918183000 +0800">
+    <programme channel="吉林卫视" start="20250918182400 +0800" stop="20250918183000 +0800">
         <title lang="zh">吉林天气预报</title>
     </programme>
     <programme channel="吉林卫视" start="20250918183000 +0800" stop="20250918190000 +0800">
         <title lang="zh">吉林新闻联播</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918190000 +0800" stop="20250918193300 +0800">
+    <programme channel="吉林卫视" start="20250918190000 +0800" stop="20250918193100 +0800">
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918193300 +0800" stop="20250918202400 +0800">
-        <title lang="zh">黄金剧场:群星闪耀时(32)</title>
+    <programme channel="吉林卫视" start="20250918193100 +0800" stop="20250918194700 +0800">
+        <title lang="zh">吉林省迎接杨靖宇支队战旗纪实</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918202400 +0800" stop="20250918212000 +0800">
-        <title lang="zh">黄金剧场:群星闪耀时(33)</title>
+    <programme channel="吉林卫视" start="20250918194700 +0800" stop="20250918203100 +0800">
+        <title lang="zh">黄金剧场:东北抗日联军(1)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918212000 +0800" stop="20250918222100 +0800">
-        <title lang="zh">欢乐东北风</title>
+    <programme channel="吉林卫视" start="20250918203100 +0800" stop="20250918211300 +0800">
+        <title lang="zh">黄金剧场:东北抗日联军(2)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918222100 +0800" stop="20250918225600 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918211300 +0800" stop="20250918220400 +0800">
+        <title lang="zh">铁蹄下的东北(3)</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918225600 +0800" stop="20250918234600 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918220400 +0800" stop="20250918222100 +0800">
+        <title lang="zh">今晚</title>
     </programme>
-    <programme channel="吉林卫视" start="20250918234600 +0800" stop="20250919004600 +0800">
-        <title lang="zh">凌晨剧场</title>
+    <programme channel="吉林卫视" start="20250918222100 +0800" stop="20250918225100 +0800">
+        <title lang="zh">紧急公关(3)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918225100 +0800" stop="20250918232100 +0800">
+        <title lang="zh">紧急公关(4)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918232100 +0800" stop="20250918235300 +0800">
+        <title lang="zh">紧急公关(5)</title>
+    </programme>
+    <programme channel="吉林卫视" start="20250918235300 +0800" stop="20250919004600 +0800">
+        <title lang="zh">紧急公关(6)</title>
     </programme>
     <channel id="青海卫视">
         <display-name lang="zh">青海卫视</display-name>
