@@ -2544,7 +2544,7 @@
     <programme channel="中学生" start="20250918230500 +0800" stop="20250918231000 +0800">
         <title lang="zh">《反诈小先锋》我工作给你线</title>
     </programme>
-    <programme channel="中学生" start="20250918231000 +0800" stop="20250919000000 +0800">
+    <programme channel="中学生" start="20250918231000 +0800" stop="20250919085000 +0800">
         <title lang="zh">《家国》纪录片--文天祥</title>
     </programme>
     <channel id="CGTN">
@@ -3715,7 +3715,7 @@
         <title lang="zh">电影:战狼</title>
     </programme>
     <programme channel="广东卫视" start="20250918212000 +0800" stop="20250918214500 +0800">
-        <title lang="zh">从晚间新闻</title>
+        <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="广东卫视" start="20250918214500 +0800" stop="20250918215500 +0800">
         <title lang="zh">正义之战</title>
@@ -3729,7 +3729,7 @@
     <programme channel="广东卫视" start="20250918230400 +0800" stop="20250918235000 +0800">
         <title lang="zh">大决战(44)</title>
     </programme>
-    <programme channel="广东卫视" start="20250918235000 +0800" stop="20250919000000 +0800">
+    <programme channel="广东卫视" start="20250918235000 +0800" stop="20250919003000 +0800">
         <title lang="zh">转身遇到你(20)</title>
     </programme>
     <channel id="江西卫视">
@@ -9183,7 +9183,7 @@
     <programme channel="嘉佳卡通" start="20250918211200 +0800" stop="20250918211300 +0800">
         <title lang="zh">2025遇见中华诗词之美</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20250918211300 +0800" stop="20250919000000 +0800">
+    <programme channel="嘉佳卡通" start="20250918211300 +0800" stop="20250919060000 +0800">
         <title lang="zh">猪猪侠之竞速小英雄九</title>
     </programme>
     <channel id="经典动画大集合">
