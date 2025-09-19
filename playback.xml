@@ -402,26 +402,11 @@
     <programme channel="CCTV4中文国际" start="20250919135030 +0800" stop="20250919140000 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-5</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250919140000 +0800" stop="20250919150200 +0800">
+    <programme channel="CCTV4中文国际" start="20250919140000 +0800" stop="20250919154630 +0800">
         <title lang="zh">2025年国新办发布会-12</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250919150200 +0800" stop="20250919152830 +0800">
-        <title lang="zh">走遍中国-2025-149</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20250919152830 +0800" stop="20250919154200 +0800">
+    <programme channel="CCTV4中文国际" start="20250919154630 +0800" stop="20250919160000 +0800">
         <title lang="zh">平凡匠心-2025-66</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20250919154200 +0800" stop="20250919154500 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-39</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20250919154500 +0800" stop="20250919154900 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-36</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20250919154900 +0800" stop="20250919155300 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-37</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20250919155300 +0800" stop="20250919160000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-42</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20250919160000 +0800" stop="20250919170130 +0800">
         <title lang="zh">2025年国新办发布会-13</title>
@@ -1563,26 +1548,11 @@
     <programme channel="CCTV4欧洲" start="20250919133030 +0800" stop="20250919140000 +0800">
         <title lang="zh">中国文艺-2025-187</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20250919140000 +0800" stop="20250919150500 +0800">
+    <programme channel="CCTV4欧洲" start="20250919140000 +0800" stop="20250919154500 +0800">
         <title lang="zh">2025年国新办发布会-12</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20250919150500 +0800" stop="20250919153100 +0800">
-        <title lang="zh">走遍中国-2025-149</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20250919153100 +0800" stop="20250919154430 +0800">
+    <programme channel="CCTV4欧洲" start="20250919154500 +0800" stop="20250919160000 +0800">
         <title lang="zh">平凡匠心-2025-66</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20250919154430 +0800" stop="20250919154830 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-1</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20250919154830 +0800" stop="20250919155230 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-3</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20250919155230 +0800" stop="20250919155630 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-5</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20250919155630 +0800" stop="20250919160000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-8</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20250919160000 +0800" stop="20250919170000 +0800">
         <title lang="zh">2025年国新办发布会-13</title>
@@ -1704,23 +1674,11 @@
     <programme channel="CCTV4美洲" start="20250919133200 +0800" stop="20250919140000 +0800">
         <title lang="zh">走遍中国-2025-150</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20250919140000 +0800" stop="20250919150500 +0800">
+    <programme channel="CCTV4美洲" start="20250919140000 +0800" stop="20250919154500 +0800">
         <title lang="zh">2025年国新办发布会-12</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20250919150500 +0800" stop="20250919153100 +0800">
-        <title lang="zh">走遍中国-2025-149</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20250919153100 +0800" stop="20250919154430 +0800">
+    <programme channel="CCTV4美洲" start="20250919154500 +0800" stop="20250919160000 +0800">
         <title lang="zh">平凡匠心-2025-67</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20250919154430 +0800" stop="20250919154830 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-1</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20250919154830 +0800" stop="20250919155230 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-3</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20250919155230 +0800" stop="20250919160000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-16</title>
     </programme>
     <programme channel="CCTV4美洲" start="20250919160000 +0800" stop="20250919170100 +0800">
         <title lang="zh">2025年国新办发布会-13</title>
@@ -6166,7 +6124,7 @@
         <title lang="zh">传承人精选</title>
     </programme>
     <programme channel="江苏教育" start="20250919141400 +0800" stop="20250919171200 +0800">
-        <title lang="zh">新世界（17-20</title>
+        <title lang="zh">新世界（17-20）</title>
     </programme>
     <programme channel="江苏教育" start="20250919171200 +0800" stop="20250919180000 +0800">
         <title lang="zh">优秀文化节目展播</title>
