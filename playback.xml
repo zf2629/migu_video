@@ -498,16 +498,13 @@
     <programme channel="CCTV5体育" start="20250919090500 +0800" stop="20250919100000 +0800">
         <title lang="zh">实况录像-2025年世界职业拳王争霸赛  14</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250919100000 +0800" stop="20250919120000 +0800">
+    <programme channel="CCTV5体育" start="20250919100000 +0800" stop="20250919122500 +0800">
         <title lang="zh">2025年中国羽毛球大师赛-1/4决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250919120000 +0800" stop="20250919130500 +0800">
+    <programme channel="CCTV5体育" start="20250919122500 +0800" stop="20250919133000 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250919130500 +0800" stop="20250919132800 +0800">
-        <title lang="zh">艺术里的奥林匹克(4K)</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20250919132800 +0800" stop="20250919150000 +0800">
+    <programme channel="CCTV5体育" start="20250919133000 +0800" stop="20250919150000 +0800">
         <title lang="zh">实况录像-2025年世界男排锦标赛 小组赛 捷克队—中国队</title>
     </programme>
     <programme channel="CCTV5体育" start="20250919150000 +0800" stop="20250919153000 +0800">
@@ -739,7 +736,7 @@
         <title lang="zh">兵器面面观-2025-188</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20250919182830 +0800" stop="20250919190000 +0800">
-        <title lang="zh">国防故事-2025-151</title>
+        <title lang="zh">国防故事-2025-148</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20250919190000 +0800" stop="20250919193300 +0800">
         <title lang="zh">新闻联播</title>
@@ -874,7 +871,7 @@
         <title lang="zh">本集提要-灼灼韶华-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250919202840 +0800" stop="20250919212105 +0800">
-        <title lang="zh">灼灼韶华18/38</title>
+        <title lang="zh">灼灼韶华第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250919212105 +0800" stop="20250919212600 +0800">
         <title lang="zh">本集提要-枫桥警事-第9集</title>
@@ -6204,83 +6201,29 @@
     <programme channel="江苏影视频道" start="20250918211000 +0800" stop="20250919001000 +0800">
         <title lang="zh">星辉剧场：无间（41-44）</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919001000 +0800" stop="20250919011000 +0800">
+    <programme channel="江苏影视频道" start="20250919001000 +0800" stop="20250919002000 +0800">
         <title lang="zh">烟花易冷(14)</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919011000 +0800" stop="20250919021000 +0800">
-        <title lang="zh">烟花易冷(15)</title>
+    <programme channel="江苏影视频道" start="20250919002000 +0800" stop="20250919070500 +0800">
+        <title lang="zh">午夜剧场：一场遇见爱情的旅行</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919021000 +0800" stop="20250919031000 +0800">
-        <title lang="zh">烟花易冷(16)</title>
+    <programme channel="江苏影视频道" start="20250919070500 +0800" stop="20250919123000 +0800">
+        <title lang="zh">真情剧场：战火中的青春（28-34）</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919031000 +0800" stop="20250919041500 +0800">
-        <title lang="zh">烟花易冷(17)</title>
+    <programme channel="江苏影视频道" start="20250919123000 +0800" stop="20250919131200 +0800">
+        <title lang="zh">勇者大冲关</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919041500 +0800" stop="20250919052700 +0800">
-        <title lang="zh">烟花易冷(18)</title>
+    <programme channel="江苏影视频道" start="20250919131200 +0800" stop="20250919134600 +0800">
+        <title lang="zh">抗战80周年主题纪录片展播</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919052700 +0800" stop="20250919060500 +0800">
-        <title lang="zh">谢谢你来了</title>
+    <programme channel="江苏影视频道" start="20250919134600 +0800" stop="20250919190000 +0800">
+        <title lang="zh">英雄剧场：红（16-22）</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919060500 +0800" stop="20250919072500 +0800">
-        <title lang="zh">谢谢你来了</title>
+    <programme channel="江苏影视频道" start="20250919190000 +0800" stop="20250919211000 +0800">
+        <title lang="zh">家庭剧场：哈尔滨一九四四（39-40）、孤舟（1）</title>
     </programme>
-    <programme channel="江苏影视频道" start="20250919072500 +0800" stop="20250919080500 +0800">
-        <title lang="zh">谢谢你来了</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919080500 +0800" stop="20250919084500 +0800">
-        <title lang="zh">谢谢你来了</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919084500 +0800" stop="20250919093500 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919093500 +0800" stop="20250919103000 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919103000 +0800" stop="20250919112500 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919112500 +0800" stop="20250919121500 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919121500 +0800" stop="20250919131000 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919131000 +0800" stop="20250919140500 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919140500 +0800" stop="20250919150500 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919150500 +0800" stop="20250919160000 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919160000 +0800" stop="20250919181200 +0800">
-        <title lang="zh">古董局中局之鉴墨寻瓷</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919181200 +0800" stop="20250919190000 +0800">
-        <title lang="zh">人间真情</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919190000 +0800" stop="20250919191000 +0800">
-        <title lang="zh">荔枝小剧场</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919191000 +0800" stop="20250919201000 +0800">
-        <title lang="zh">剧说那些事儿</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919201000 +0800" stop="20250919213000 +0800">
-        <title lang="zh">爱的阶梯</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919213000 +0800" stop="20250919221000 +0800">
-        <title lang="zh">爱的阶梯</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919221000 +0800" stop="20250919231500 +0800">
-        <title lang="zh">爱的阶梯</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919231500 +0800" stop="20250919235900 +0800">
-        <title lang="zh">爱的阶梯</title>
-    </programme>
-    <programme channel="江苏影视频道" start="20250919235900 +0800" stop="20250920000000 +0800">
-        <title lang="zh">结束</title>
+    <programme channel="江苏影视频道" start="20250919211000 +0800" stop="20250920000000 +0800">
+        <title lang="zh">星辉剧场：无间（45-48）</title>
     </programme>
     <channel id="江苏综艺频道">
         <display-name lang="zh">江苏综艺频道</display-name>
@@ -6288,47 +6231,47 @@
     <programme channel="江苏综艺频道" start="20250919000000 +0800" stop="20250919003000 +0800">
         <title lang="zh">哈尔滨一九四四(16)</title>
     </programme>
-    <programme channel="江苏综艺频道" start="20250919003000 +0800" stop="20250919014000 +0800">
-        <title lang="zh">综艺能量站之桃花朵朵开</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919014000 +0800" stop="20250919035500 +0800">
+    <programme channel="江苏综艺频道" start="20250919003000 +0800" stop="20250919061000 +0800">
         <title lang="zh">缘来不晚</title>
     </programme>
-    <programme channel="江苏综艺频道" start="20250919035500 +0800" stop="20250919050000 +0800">
-        <title lang="zh">等着我</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919050000 +0800" stop="20250919072000 +0800">
-        <title lang="zh">等着我</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919072000 +0800" stop="20250919114000 +0800">
+    <programme channel="江苏综艺频道" start="20250919061000 +0800" stop="20250919070000 +0800">
         <title lang="zh">综艺能量站之桃花朵朵开</title>
     </programme>
-    <programme channel="江苏综艺频道" start="20250919114000 +0800" stop="20250919152000 +0800">
-        <title lang="zh">等着我</title>
+    <programme channel="江苏综艺频道" start="20250919070000 +0800" stop="20250919104000 +0800">
+        <title lang="zh">情感驿站之等着我</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919104000 +0800" stop="20250919110000 +0800">
+        <title lang="zh">美好生活荔枝帮</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919110000 +0800" stop="20250919113000 +0800">
+        <title lang="zh">情感驿站之等着我</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919113000 +0800" stop="20250919152000 +0800">
+        <title lang="zh">综艺能量站之桃花朵朵开</title>
     </programme>
     <programme channel="江苏综艺频道" start="20250919152000 +0800" stop="20250919182000 +0800">
-        <title lang="zh">综艺能量站之桃花朵朵开</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919182000 +0800" stop="20250919183500 +0800">
-        <title lang="zh">综艺派</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919183500 +0800" stop="20250919193000 +0800">
         <title lang="zh">为爱转身</title>
     </programme>
-    <programme channel="江苏综艺频道" start="20250919193000 +0800" stop="20250919202000 +0800">
-        <title lang="zh">震撼一条龙</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919202000 +0800" stop="20250919211000 +0800">
-        <title lang="zh">味道</title>
-    </programme>
-    <programme channel="江苏综艺频道" start="20250919211000 +0800" stop="20250919224500 +0800">
+    <programme channel="江苏综艺频道" start="20250919182000 +0800" stop="20250919190500 +0800">
         <title lang="zh">综艺能量站之桃花朵朵开</title>
     </programme>
-    <programme channel="江苏综艺频道" start="20250919224500 +0800" stop="20250919234000 +0800">
-        <title lang="zh">哈尔滨一九四四(17)</title>
+    <programme channel="江苏综艺频道" start="20250919190500 +0800" stop="20250919193500 +0800">
+        <title lang="zh">美好生活荔枝帮</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919193500 +0800" stop="20250919201000 +0800">
+        <title lang="zh">缘来不晚</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919201000 +0800" stop="20250919205500 +0800">
+        <title lang="zh">为爱转身</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919205500 +0800" stop="20250919213000 +0800">
+        <title lang="zh">震撼一条龙之重返二十岁</title>
+    </programme>
+    <programme channel="江苏综艺频道" start="20250919213000 +0800" stop="20250919234000 +0800">
+        <title lang="zh">情感驿站之等着我</title>
     </programme>
     <programme channel="江苏综艺频道" start="20250919234000 +0800" stop="20250920000000 +0800">
-        <title lang="zh">哈尔滨一九四四(18)</title>
+        <title lang="zh">精品剧场：信者无敌（12）</title>
     </programme>
     <channel id="公共新闻频道">
         <display-name lang="zh">公共新闻频道</display-name>
