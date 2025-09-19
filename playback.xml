@@ -408,14 +408,14 @@
     <programme channel="CCTV4中文国际" start="20250919154630 +0800" stop="20250919160000 +0800">
         <title lang="zh">平凡匠心-2025-66</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250919160000 +0800" stop="20250919170130 +0800">
+    <programme channel="CCTV4中文国际" start="20250919160000 +0800" stop="20250919170030 +0800">
         <title lang="zh">2025年国新办发布会-13</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250919170130 +0800" stop="20250919171500 +0800">
+    <programme channel="CCTV4中文国际" start="20250919170030 +0800" stop="20250919171400 +0800">
         <title lang="zh">平凡匠心-2025-67</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250919171500 +0800" stop="20250919180000 +0800">
-        <title lang="zh">远方的家2025-68</title>
+    <programme channel="CCTV4中文国际" start="20250919171400 +0800" stop="20250919180000 +0800">
+        <title lang="zh">借命而生第7集</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20250919180000 +0800" stop="20250919183000 +0800">
         <title lang="zh">中国新闻</title>
@@ -2361,8 +2361,8 @@
     <channel id="中学生">
         <display-name lang="zh">中学生</display-name>
     </channel>
-    <programme channel="中学生" start="20250918231000 +0800" stop="20250919085000 +0800">
-        <title lang="zh">《家国》纪录片--文天祥</title>
+    <programme channel="中学生" start="20250919000000 +0800" stop="20250919085000 +0800">
+        <title lang="zh">《家国》纪录片</title>
     </programme>
     <programme channel="中学生" start="20250919085000 +0800" stop="20250919091000 +0800">
         <title lang="zh">《青春如画》中央美术学院</title>
