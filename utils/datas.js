@@ -9,7 +9,7 @@ const cntvNames = {
   "CCTV6电影": "cctv6",
   "CCTV7国防军事": "cctv7",
   "CCTV8电视剧": "cctv8",
-  "CCTV9纪录": "cctv9",
+  "CCTV9纪录": "cctvjilu",
   "CCTV10科教": "cctv10",
   "CCTV11戏曲": "cctv11",
   "CCTV12社会与法": "cctv12",
