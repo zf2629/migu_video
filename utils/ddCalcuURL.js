@@ -205,7 +205,7 @@ function getddCalcu720p(puData, programId) {
     return ""
   }
 
-  const words = ["e","1","","0"]
+  const words = ["e","2","","0"]
   const thirdReplaceIndex = 2
 
   puData = puData.split("");
