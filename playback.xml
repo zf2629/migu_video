@@ -859,13 +859,13 @@
         <title lang="zh">本集提要-灼灼韶华-第23集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922193000 +0800" stop="20250922202405 +0800">
-        <title lang="zh">灼灼韶华23/38</title>
+        <title lang="zh">灼灼韶华第23集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922202405 +0800" stop="20250922202905 +0800">
         <title lang="zh">本集提要-灼灼韶华-第24集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922202905 +0800" stop="20250922212145 +0800">
-        <title lang="zh">灼灼韶华24/38</title>
+        <title lang="zh">灼灼韶华第24集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922212145 +0800" stop="20250922212640 +0800">
         <title lang="zh">本集提要-枫桥警事-第14集</title>
@@ -874,7 +874,7 @@
         <title lang="zh">枫桥警事第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922221730 +0800" stop="20250922230645 +0800">
-        <title lang="zh">枫桥警事15/30</title>
+        <title lang="zh">枫桥警事第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250922230645 +0800" stop="20250922235245 +0800">
         <title lang="zh">大河之水第3集</title>
@@ -1068,17 +1068,20 @@
     <programme channel="CCTV10科教" start="20250922203100 +0800" stop="20250922212030 +0800">
         <title lang="zh">探索·发现-2025-265</title>
     </programme>
-    <programme channel="CCTV10科教" start="20250922212030 +0800" stop="20250922214800 +0800">
+    <programme channel="CCTV10科教" start="20250922212030 +0800" stop="20250922213030 +0800">
+        <title lang="zh">寻找胜利的瞬间-铭记-1</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20250922213030 +0800" stop="20250922214030 +0800">
+        <title lang="zh">寻找胜利的瞬间-铭记-2</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20250922214030 +0800" stop="20250922220800 +0800">
         <title lang="zh">创新进行时-2025-189</title>
     </programme>
-    <programme channel="CCTV10科教" start="20250922214800 +0800" stop="20250922225530 +0800">
+    <programme channel="CCTV10科教" start="20250922220800 +0800" stop="20250922230530 +0800">
+        <title lang="zh">探索.发现-奥秘（精编）-50</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20250922230530 +0800" stop="20250922235900 +0800">
         <title lang="zh">剧说历史（第一季）-27</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20250922225530 +0800" stop="20250922235530 +0800">
-        <title lang="zh">科学动物园-2025-38</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20250922235530 +0800" stop="20250922235900 +0800">
-        <title lang="zh">味道-2025-188（精编）</title>
     </programme>
     <channel id="CCTV11戏曲">
         <display-name lang="zh">CCTV11戏曲</display-name>
