@@ -93,13 +93,13 @@
     <programme channel="CCTV1综合" start="20250923184905 +0800" stop="20250923190000 +0800">
         <title lang="zh">秘境之眼-2025-263</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250923190000 +0800" stop="20250923194035 +0800">
+    <programme channel="CCTV1综合" start="20250923190000 +0800" stop="20250923194535 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250923194035 +0800" stop="20250923200700 +0800">
+    <programme channel="CCTV1综合" start="20250923194535 +0800" stop="20250923201145 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250923200700 +0800" stop="20250923220000 +0800">
+    <programme channel="CCTV1综合" start="20250923201145 +0800" stop="20250923220000 +0800">
         <title lang="zh">2025年中国农民丰收节晚会-1</title>
     </programme>
     <programme channel="CCTV1综合" start="20250923220000 +0800" stop="20250923223300 +0800">
@@ -450,13 +450,13 @@
     <programme channel="CCTV4中文国际" start="20250923220000 +0800" stop="20250923223000 +0800">
         <title lang="zh">走遍中国-2025-152</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250923223000 +0800" stop="20250923230330 +0800">
+    <programme channel="CCTV4中文国际" start="20250923223000 +0800" stop="20250923230830 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250923230330 +0800" stop="20250923234530 +0800">
+    <programme channel="CCTV4中文国际" start="20250923230830 +0800" stop="20250923235030 +0800">
         <title lang="zh">灵与肉-（四套）-33/42</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20250923234530 +0800" stop="20250923235900 +0800">
+    <programme channel="CCTV4中文国际" start="20250923235030 +0800" stop="20250923235900 +0800">
         <title lang="zh">灵与肉-（四套）-34/42</title>
     </programme>
     <channel id="CCTV5体育">
@@ -750,31 +750,31 @@
     <programme channel="CCTV7国防军事" start="20250923182830 +0800" stop="20250923190000 +0800">
         <title lang="zh">国防故事-2025-152</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923190000 +0800" stop="20250923193300 +0800">
+    <programme channel="CCTV7国防军事" start="20250923190000 +0800" stop="20250923193800 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923193300 +0800" stop="20250923200300 +0800">
+    <programme channel="CCTV7国防军事" start="20250923193800 +0800" stop="20250923200800 +0800">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923200300 +0800" stop="20250923200930 +0800">
+    <programme channel="CCTV7国防军事" start="20250923200800 +0800" stop="20250923201430 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-我爱边防线（阿里）</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923200930 +0800" stop="20250923204330 +0800">
+    <programme channel="CCTV7国防军事" start="20250923201430 +0800" stop="20250923204830 +0800">
         <title lang="zh">防务新观察-2025-266</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923204330 +0800" stop="20250923211715 +0800">
+    <programme channel="CCTV7国防军事" start="20250923204830 +0800" stop="20250923212215 +0800">
         <title lang="zh">军事纪实-2025-190</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923211715 +0800" stop="20250923215315 +0800">
+    <programme channel="CCTV7国防军事" start="20250923212215 +0800" stop="20250923215815 +0800">
         <title lang="zh">军事科技-2025-38</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923215315 +0800" stop="20250923224045 +0800">
+    <programme channel="CCTV7国防军事" start="20250923215815 +0800" stop="20250923224545 +0800">
         <title lang="zh">跨过鸭绿江28/40</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923224045 +0800" stop="20250923232945 +0800">
+    <programme channel="CCTV7国防军事" start="20250923224545 +0800" stop="20250923233445 +0800">
         <title lang="zh">跨过鸭绿江29/40</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20250923232945 +0800" stop="20250923235900 +0800">
+    <programme channel="CCTV7国防军事" start="20250923233445 +0800" stop="20250923235900 +0800">
         <title lang="zh">军事纪实-2025-190</title>
     </programme>
     <channel id="CCTV8电视剧">
@@ -1353,11 +1353,8 @@
     <programme channel="CCTV13新闻" start="20250923180000 +0800" stop="20250923190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20250923190000 +0800" stop="20250923193255 +0800">
+    <programme channel="CCTV13新闻" start="20250923190000 +0800" stop="20250923194035 +0800">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20250923193255 +0800" stop="20250923194035 +0800">
-        <title lang="zh">天气预报</title>
     </programme>
     <programme channel="CCTV13新闻" start="20250923194035 +0800" stop="20250923200000 +0800">
         <title lang="zh">焦点访谈</title>
