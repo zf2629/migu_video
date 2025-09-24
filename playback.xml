@@ -309,16 +309,16 @@
     <programme channel="CCTV3综艺" start="20250924193000 +0800" stop="20250924210215 +0800">
         <title lang="zh">中央广播电视总台“心连心”艺术团赴新疆维吾尔自治区慰问演出-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20250924210215 +0800" stop="20250924220325 +0800">
+    <programme channel="CCTV3综艺" start="20250924210215 +0800" stop="20250924220055 +0800">
         <title lang="zh">综艺喜乐汇-2025-1047 第十二届丝绸之路国际电影节开幕式</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20250924220325 +0800" stop="20250924231000 +0800">
+    <programme channel="CCTV3综艺" start="20250924220055 +0800" stop="20250924230730 +0800">
         <title lang="zh">一起音乐吧-2025-53</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20250924231000 +0800" stop="20250924235600 +0800">
+    <programme channel="CCTV3综艺" start="20250924230730 +0800" stop="20250924235330 +0800">
         <title lang="zh">综艺喜乐汇-2025-886 巡回检察组 3/43</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20250924235600 +0800" stop="20250924235900 +0800">
+    <programme channel="CCTV3综艺" start="20250924235330 +0800" stop="20250924235900 +0800">
         <title lang="zh">综艺喜乐汇-2025-887 巡回检察组 4/43</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -883,16 +883,16 @@
         <title lang="zh">本集提要-灼灼韶华-第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250924202905 +0800" stop="20250924212145 +0800">
-        <title lang="zh">灼灼韶华28/38</title>
+        <title lang="zh">灼灼韶华第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250924212145 +0800" stop="20250924212640 +0800">
         <title lang="zh">本集提要-枫桥警事-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250924212640 +0800" stop="20250924221730 +0800">
-        <title lang="zh">枫桥警事18/30</title>
+        <title lang="zh">枫桥警事第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250924221730 +0800" stop="20250924230645 +0800">
-        <title lang="zh">枫桥警事19/30</title>
+        <title lang="zh">枫桥警事第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250924230645 +0800" stop="20250924235245 +0800">
         <title lang="zh">大河之水第17集</title>
