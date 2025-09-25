@@ -1,3 +1,5 @@
+import { getDateString } from "./time"
+
 const list = {
   // h5端修改频繁，现已失效
   "h5": {
