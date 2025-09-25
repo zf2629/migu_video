@@ -7,13 +7,13 @@ async function fetchURLByAndroid() {
 
   const start = Date.now()
 
+  // 获取数据
+  const datas = await dataList()
+
   // 必须绝对路径
   const path = process.cwd() + '/interface.txt'
   // 创建写入空内容
   writeFile(path, "")
-
-  // 获取数据
-  const datas = await dataList()
 
   // 回放
   const playbackFile = process.cwd() + '/playback.xml'
