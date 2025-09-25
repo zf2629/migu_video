@@ -1,4 +1,4 @@
-import { getDateString } from "./time"
+import { getDateString } from "./time.js"
 
 const list = {
   // h5端修改频繁，现已失效
