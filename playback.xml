@@ -525,13 +525,13 @@
     <programme channel="CCTV5体育" start="20250926180000 +0800" stop="20250926190000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250926190000 +0800" stop="20250926210000 +0800">
+    <programme channel="CCTV5体育" start="20250926190000 +0800" stop="20250926205000 +0800">
         <title lang="zh">2025年中国网球公开赛- 女单第2轮、男单第1轮</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250926210000 +0800" stop="20250926212000 +0800">
+    <programme channel="CCTV5体育" start="20250926205000 +0800" stop="20250926211500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20250926212000 +0800" stop="20250926230500 +0800">
+    <programme channel="CCTV5体育" start="20250926211500 +0800" stop="20250926230500 +0800">
         <title lang="zh">2025年中国网球公开赛- 女单第2轮、男单第1轮</title>
     </programme>
     <programme channel="CCTV5体育" start="20250926230500 +0800" stop="20250926235900 +0800">
@@ -7251,95 +7251,104 @@
     <channel id="优漫卡通频道">
         <display-name lang="zh">优漫卡通频道</display-name>
     </channel>
-    <programme channel="优漫卡通频道" start="20250926000000 +0800" stop="20250926040000 +0800">
-        <title lang="zh">新大头儿子和小头爸爸之英雄梦1</title>
+    <programme channel="优漫卡通频道" start="20250926000000 +0800" stop="20250926003000 +0800">
+        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926040000 +0800" stop="20250926050000 +0800">
-        <title lang="zh">新大头儿子和小头爸爸之英雄梦2</title>
+    <programme channel="优漫卡通频道" start="20250926003000 +0800" stop="20250926010000 +0800">
+        <title lang="zh">萌鸡小队</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926050000 +0800" stop="20250926060000 +0800">
-        <title lang="zh">帮帮龙出动</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250926060000 +0800" stop="20250926070000 +0800">
-        <title lang="zh">猪猪侠之超星五灵侠</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250926070000 +0800" stop="20250926080000 +0800">
-        <title lang="zh">嘟当曼</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250926080000 +0800" stop="20250926090500 +0800">
-        <title lang="zh">超级飞侠</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250926090500 +0800" stop="20250926100000 +0800">
+    <programme channel="优漫卡通频道" start="20250926010000 +0800" stop="20250926050000 +0800">
         <title lang="zh">智能小当家</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926100000 +0800" stop="20250926102500 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250926050000 +0800" stop="20250926060000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926102500 +0800" stop="20250926110000 +0800">
-        <title lang="zh">百变校巴</title>
+    <programme channel="优漫卡通频道" start="20250926060000 +0800" stop="20250926070000 +0800">
+        <title lang="zh">精灵梦叶罗丽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926110000 +0800" stop="20250926121000 +0800">
-        <title lang="zh">天眼归来</title>
+    <programme channel="优漫卡通频道" start="20250926070000 +0800" stop="20250926080000 +0800">
+        <title lang="zh">小凉帽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926121000 +0800" stop="20250926123000 +0800">
+    <programme channel="优漫卡通频道" start="20250926080000 +0800" stop="20250926081500 +0800">
+        <title lang="zh">量子战队之恐龙守护Ⅱ</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926081500 +0800" stop="20250926083000 +0800">
+        <title lang="zh">超级飞侠ⅩⅧ</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926083000 +0800" stop="20250926090000 +0800">
+        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926090000 +0800" stop="20250926100000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926100000 +0800" stop="20250926110000 +0800">
+        <title lang="zh">精灵梦叶罗丽</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926110000 +0800" stop="20250926120000 +0800">
+        <title lang="zh">小凉帽</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926120000 +0800" stop="20250926123000 +0800">
         <title lang="zh">萌鸡小队</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926123000 +0800" stop="20250926125500 +0800">
         <title lang="zh">来玩吧</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926125500 +0800" stop="20250926140000 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+    <programme channel="优漫卡通频道" start="20250926125500 +0800" stop="20250926135500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926135500 +0800" stop="20250926140000 +0800">
+        <title lang="zh">天眼归来</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926140000 +0800" stop="20250926150000 +0800">
-        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
+        <title lang="zh">精灵梦叶罗丽</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926150000 +0800" stop="20250926160000 +0800">
-        <title lang="zh">海底小纵队</title>
+        <title lang="zh">小凉帽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926160000 +0800" stop="20250926170300 +0800">
-        <title lang="zh">超级飞侠</title>
+    <programme channel="优漫卡通频道" start="20250926160000 +0800" stop="20250926170000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926170300 +0800" stop="20250926175000 +0800">
-        <title lang="zh">百变布鲁可</title>
+    <programme channel="优漫卡通频道" start="20250926170000 +0800" stop="20250926180000 +0800">
+        <title lang="zh">童游记</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926175000 +0800" stop="20250926181500 +0800">
+    <programme channel="优漫卡通频道" start="20250926180000 +0800" stop="20250926182500 +0800">
         <title lang="zh">来玩吧</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926181500 +0800" stop="20250926183000 +0800">
-        <title lang="zh">超变战陀之百变战陀</title>
+    <programme channel="优漫卡通频道" start="20250926182500 +0800" stop="20250926185500 +0800">
+        <title lang="zh">萌鸡小队</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926183000 +0800" stop="20250926184500 +0800">
-        <title lang="zh">寻梦泡泡岛</title>
-    </programme>
-    <programme channel="优漫卡通频道" start="20250926184500 +0800" stop="20250926190000 +0800">
-        <title lang="zh">家有灶君</title>
+    <programme channel="优漫卡通频道" start="20250926185500 +0800" stop="20250926190000 +0800">
+        <title lang="zh">天眼归来</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926190000 +0800" stop="20250926190500 +0800">
         <title lang="zh">来玩吧</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926190500 +0800" stop="20250926192000 +0800">
-        <title lang="zh">量子战队之恐龙守护</title>
+        <title lang="zh">量子战队之恐龙守护Ⅱ</title>
     </programme>
     <programme channel="优漫卡通频道" start="20250926192000 +0800" stop="20250926193500 +0800">
-        <title lang="zh">心奇爆龙战车之超斗爆龙</title>
+        <title lang="zh">超级飞侠ⅩⅧ</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926193500 +0800" stop="20250926195000 +0800">
-        <title lang="zh">超元绝战之传说卡</title>
+    <programme channel="优漫卡通频道" start="20250926193500 +0800" stop="20250926200500 +0800">
+        <title lang="zh">棉花糖和云朵妈妈之暖心回响</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926195000 +0800" stop="20250926200500 +0800">
-        <title lang="zh">少年英雄小哪吒</title>
+    <programme channel="优漫卡通频道" start="20250926200500 +0800" stop="20250926204000 +0800">
+        <title lang="zh">开心超人联盟之勇敢之城</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926200500 +0800" stop="20250926203500 +0800">
-        <title lang="zh">精灵梦叶罗丽</title>
+    <programme channel="优漫卡通频道" start="20250926204000 +0800" stop="20250926210000 +0800">
+        <title lang="zh">优漫小剧场</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926203500 +0800" stop="20250926210000 +0800">
-        <title lang="zh">优漫星未来</title>
+    <programme channel="优漫卡通频道" start="20250926210000 +0800" stop="20250926220000 +0800">
+        <title lang="zh">小凉帽</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926210000 +0800" stop="20250926221200 +0800">
-        <title lang="zh">乌龙院之活宝传奇</title>
+    <programme channel="优漫卡通频道" start="20250926220000 +0800" stop="20250926233000 +0800">
+        <title lang="zh">天才基本法</title>
     </programme>
-    <programme channel="优漫卡通频道" start="20250926221200 +0800" stop="20250927000000 +0800">
-        <title lang="zh">梦在海这边</title>
+    <programme channel="优漫卡通频道" start="20250926233000 +0800" stop="20250926234500 +0800">
+        <title lang="zh">量子战队之恐龙守护Ⅱ</title>
+    </programme>
+    <programme channel="优漫卡通频道" start="20250926234500 +0800" stop="20250927000000 +0800">
+        <title lang="zh">超级飞侠ⅩⅧ</title>
     </programme>
     <channel id="江阴新闻综合">
         <display-name lang="zh">江阴新闻综合</display-name>
