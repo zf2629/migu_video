@@ -3693,6 +3693,75 @@
     <programme channel="24小时城市联赛轮播台" start="20250926211900 +0800" stop="20250927000200 +0800">
         <title lang="zh">江苏省城市足球联赛第12轮全场回放：泰州队3-0南京队</title>
     </programme>
+    <channel id="武术世界">
+        <display-name lang="zh">武术世界</display-name>
+    </channel>
+    <programme channel="武术世界" start="20250926000000 +0800" stop="20250926042000 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
+    <programme channel="武术世界" start="20250926042000 +0800" stop="20250926043000 +0800">
+        <title lang="zh">以武会影</title>
+    </programme>
+    <programme channel="武术世界" start="20250926043000 +0800" stop="20250926051000 +0800">
+        <title lang="zh">功夫课堂：少林连环拳</title>
+    </programme>
+    <programme channel="武术世界" start="20250926051000 +0800" stop="20250926055000 +0800">
+        <title lang="zh">功夫课堂：太极缠丝功</title>
+    </programme>
+    <programme channel="武术世界" start="20250926055000 +0800" stop="20250926063000 +0800">
+        <title lang="zh">功夫课堂：四势五行太极</title>
+    </programme>
+    <programme channel="武术世界" start="20250926063000 +0800" stop="20250926071000 +0800">
+        <title lang="zh">功夫课堂：少林八段锦</title>
+    </programme>
+    <programme channel="武术世界" start="20250926071000 +0800" stop="20250926073000 +0800">
+        <title lang="zh">以武会影</title>
+    </programme>
+    <programme channel="武术世界" start="20250926073000 +0800" stop="20250926081000 +0800">
+        <title lang="zh">武林人物周刊：啸谈武林</title>
+    </programme>
+    <programme channel="武术世界" start="20250926081000 +0800" stop="20250926090000 +0800">
+        <title lang="zh">武观天下：功夫少林</title>
+    </programme>
+    <programme channel="武术世界" start="20250926090000 +0800" stop="20250926093000 +0800">
+        <title lang="zh">瑜伽课堂</title>
+    </programme>
+    <programme channel="武术世界" start="20250926093000 +0800" stop="20250926121000 +0800">
+        <title lang="zh">巅峰擂台特约：ONE冠军赛</title>
+    </programme>
+    <programme channel="武术世界" start="20250926121000 +0800" stop="20250926125000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20250926125000 +0800" stop="20250926125500 +0800">
+        <title lang="zh">武道健康特约之：健康小贴士</title>
+    </programme>
+    <programme channel="武术世界" start="20250926125500 +0800" stop="20250926153500 +0800">
+        <title lang="zh">巅峰擂台特约：ONE冠军赛</title>
+    </programme>
+    <programme channel="武术世界" start="20250926153500 +0800" stop="20250926181500 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
+    <programme channel="武术世界" start="20250926181500 +0800" stop="20250926185500 +0800">
+        <title lang="zh">武林人物周刊：啸谈武林</title>
+    </programme>
+    <programme channel="武术世界" start="20250926185500 +0800" stop="20250926190000 +0800">
+        <title lang="zh">武道健康特约之：健康小贴士</title>
+    </programme>
+    <programme channel="武术世界" start="20250926190000 +0800" stop="20250926194000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20250926194000 +0800" stop="20250926210000 +0800">
+        <title lang="zh">武林风</title>
+    </programme>
+    <programme channel="武术世界" start="20250926210000 +0800" stop="20250926222000 +0800">
+        <title lang="zh">武林笼中对</title>
+    </programme>
+    <programme channel="武术世界" start="20250926222000 +0800" stop="20250926230000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20250926230000 +0800" stop="20250927000000 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
     <channel id="东方卫视">
         <display-name lang="zh">东方卫视</display-name>
     </channel>
@@ -9273,6 +9342,96 @@
     <programme channel="CETV4" start="20250926234000 +0800" stop="20250927001000 +0800">
         <title lang="zh">疾风少年</title>
     </programme>
+    <channel id="山东教育">
+        <display-name lang="zh">山东教育</display-name>
+    </channel>
+    <programme channel="山东教育" start="20250925230700 +0800" stop="20250926004900 +0800">
+        <title lang="zh">红色影像馆</title>
+    </programme>
+    <programme channel="山东教育" start="20250926004900 +0800" stop="20250926013600 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926013600 +0800" stop="20250926022300 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926022300 +0800" stop="20250926031500 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926031500 +0800" stop="20250926042800 +0800">
+        <title lang="zh">小手大滋味</title>
+    </programme>
+    <programme channel="山东教育" start="20250926042800 +0800" stop="20250926061000 +0800">
+        <title lang="zh">红色影像馆</title>
+    </programme>
+    <programme channel="山东教育" start="20250926061000 +0800" stop="20250926064300 +0800">
+        <title lang="zh">孔子大学堂</title>
+    </programme>
+    <programme channel="山东教育" start="20250926064300 +0800" stop="20250926070000 +0800">
+        <title lang="zh">教育新闻</title>
+    </programme>
+    <programme channel="山东教育" start="20250926070000 +0800" stop="20250926070200 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="山东教育" start="20250926070200 +0800" stop="20250926071900 +0800">
+        <title lang="zh">教育纵深</title>
+    </programme>
+    <programme channel="山东教育" start="20250926071900 +0800" stop="20250926083400 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926083400 +0800" stop="20250926093900 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926093900 +0800" stop="20250926104400 +0800">
+        <title lang="zh">康熙王朝</title>
+    </programme>
+    <programme channel="山东教育" start="20250926104400 +0800" stop="20250926114000 +0800">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="山东教育" start="20250926114000 +0800" stop="20250926120200 +0800">
+        <title lang="zh">教育新闻</title>
+    </programme>
+    <programme channel="山东教育" start="20250926120200 +0800" stop="20250926142800 +0800">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="山东教育" start="20250926142800 +0800" stop="20250926150000 +0800">
+        <title lang="zh">真相百分百</title>
+    </programme>
+    <programme channel="山东教育" start="20250926150000 +0800" stop="20250926165700 +0800">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="山东教育" start="20250926165700 +0800" stop="20250926171200 +0800">
+        <title lang="zh">动车侠-未来高铁城</title>
+    </programme>
+    <programme channel="山东教育" start="20250926171200 +0800" stop="20250926173400 +0800">
+        <title lang="zh">美育少年行</title>
+    </programme>
+    <programme channel="山东教育" start="20250926173400 +0800" stop="20250926180900 +0800">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="山东教育" start="20250926180900 +0800" stop="20250926184000 +0800">
+        <title lang="zh">真相百分百</title>
+    </programme>
+    <programme channel="山东教育" start="20250926184000 +0800" stop="20250926190000 +0800">
+        <title lang="zh">教育新闻</title>
+    </programme>
+    <programme channel="山东教育" start="20250926190000 +0800" stop="20250926193500 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="山东教育" start="20250926193500 +0800" stop="20250926200000 +0800">
+        <title lang="zh">格致论道</title>
+    </programme>
+    <programme channel="山东教育" start="20250926200000 +0800" stop="20250926202500 +0800">
+        <title lang="zh">开放讲堂</title>
+    </programme>
+    <programme channel="山东教育" start="20250926202500 +0800" stop="20250926223500 +0800">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="山东教育" start="20250926223500 +0800" stop="20250926230700 +0800">
+        <title lang="zh">孔子大学堂</title>
+    </programme>
+    <programme channel="山东教育" start="20250926230700 +0800" stop="20250927004900 +0800">
+        <title lang="zh">红色影像馆</title>
+    </programme>
     <channel id="熊猫频道01高清">
         <display-name lang="zh">熊猫频道01高清</display-name>
     </channel>
@@ -10451,6 +10610,156 @@
     </programme>
     <programme channel="新动力量创一流" start="20250926235400 +0800" stop="20250927000200 +0800">
         <title lang="zh">浙江公司《之江溯源》</title>
+    </programme>
+    <channel id="环球旅游">
+        <display-name lang="zh">环球旅游</display-name>
+    </channel>
+    <programme channel="环球旅游" start="20250926000000 +0800" stop="20250926003000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926003000 +0800" stop="20250926010000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926010000 +0800" stop="20250926013000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926013000 +0800" stop="20250926020000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926020000 +0800" stop="20250926023000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926023000 +0800" stop="20250926030000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926030000 +0800" stop="20250926033000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926033000 +0800" stop="20250926040000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926040000 +0800" stop="20250926043000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926043000 +0800" stop="20250926050000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926050000 +0800" stop="20250926053000 +0800">
+        <title lang="zh">爱上川菜 寰行迹场</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926053000 +0800" stop="20250926060000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926060000 +0800" stop="20250926063000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926063000 +0800" stop="20250926070000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926070000 +0800" stop="20250926073000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926073000 +0800" stop="20250926080000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926080000 +0800" stop="20250926083000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926083000 +0800" stop="20250926090000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926090000 +0800" stop="20250926093000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926093000 +0800" stop="20250926100000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926100000 +0800" stop="20250926103000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926103000 +0800" stop="20250926110000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926110000 +0800" stop="20250926113000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926113000 +0800" stop="20250926120000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926120000 +0800" stop="20250926123000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926123000 +0800" stop="20250926130000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926130000 +0800" stop="20250926133000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926133000 +0800" stop="20250926140000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926140000 +0800" stop="20250926143000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926143000 +0800" stop="20250926150000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926150000 +0800" stop="20250926153000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926153000 +0800" stop="20250926160000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926160000 +0800" stop="20250926163000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926163000 +0800" stop="20250926170000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926170000 +0800" stop="20250926173000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926173000 +0800" stop="20250926180000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926180000 +0800" stop="20250926183000 +0800">
+        <title lang="zh">美丽密码</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926183000 +0800" stop="20250926190000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926190000 +0800" stop="20250926193000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926193000 +0800" stop="20250926195000 +0800">
+        <title lang="zh">和田宣传片01</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926195000 +0800" stop="20250926200000 +0800">
+        <title lang="zh">科普好书001</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926200000 +0800" stop="20250926203000 +0800">
+        <title lang="zh">美丽密码</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926203000 +0800" stop="20250926210000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926210000 +0800" stop="20250926213000 +0800">
+        <title lang="zh">美丽密码</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926213000 +0800" stop="20250926220000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926220000 +0800" stop="20250926223000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926223000 +0800" stop="20250926230000 +0800">
+        <title lang="zh">美丽密码</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926230000 +0800" stop="20250926233000 +0800">
+        <title lang="zh">爱上川菜 寰行迹</title>
+    </programme>
+    <programme channel="环球旅游" start="20250926233000 +0800" stop="20250927000000 +0800">
+        <title lang="zh">乡间物语 小导游大视界</title>
     </programme>
     <channel id="钱塘江">
         <display-name lang="zh">钱塘江</display-name>
