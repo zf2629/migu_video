@@ -1101,17 +1101,14 @@
     <programme channel="CCTV11戏曲" start="20250927185500 +0800" stop="20250927193000 +0800">
         <title lang="zh">青春戏苑-2025-28梨园趣话-26</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20250927193000 +0800" stop="20250927220740 +0800">
-        <title lang="zh">CCTV空中剧院-2025-48 京剧《凤还巢》</title>
+    <programme channel="CCTV11戏曲" start="20250927193000 +0800" stop="20250927223520 +0800">
+        <title lang="zh">中国戏曲像音像集萃-2025-49京剧《杨家将》</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20250927220740 +0800" stop="20250927225810 +0800">
+    <programme channel="CCTV11戏曲" start="20250927223520 +0800" stop="20250927232550 +0800">
         <title lang="zh">甜蜜第11集</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20250927225810 +0800" stop="20250927234840 +0800">
+    <programme channel="CCTV11戏曲" start="20250927232550 +0800" stop="20250927235900 +0800">
         <title lang="zh">甜蜜第12集</title>
-    </programme>
-    <programme channel="CCTV11戏曲" start="20250927234840 +0800" stop="20250927235900 +0800">
-        <title lang="zh">甜蜜第13集</title>
     </programme>
     <channel id="CCTV12社会与法">
         <display-name lang="zh">CCTV12社会与法</display-name>
