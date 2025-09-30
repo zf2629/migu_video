@@ -114,10 +114,10 @@
     <programme channel="CCTV1综合" start="20250930220000 +0800" stop="20250930223430 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250930223430 +0800" stop="20250930232900 +0800">
-        <title lang="zh">踏歌行-2</title>
+    <programme channel="CCTV1综合" start="20250930223430 +0800" stop="20250930232100 +0800">
+        <title lang="zh">开讲啦-2025-30</title>
     </programme>
-    <programme channel="CCTV1综合" start="20250930232900 +0800" stop="20250930235900 +0800">
+    <programme channel="CCTV1综合" start="20250930232100 +0800" stop="20250930235900 +0800">
         <title lang="zh">非遗里的中国（第三季）-3</title>
     </programme>
     <channel id="CCTV2财经">
@@ -567,10 +567,10 @@
     <programme channel="CCTV5+体育赛事" start="20250930100000 +0800" stop="20250930110000 +0800">
         <title lang="zh">实况录像-2025年皮划艇激流回旋世界杯 德国站</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20250930110000 +0800" stop="20250930150500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20250930110000 +0800" stop="20250930153000 +0800">
         <title lang="zh">WTT大满贯中国站-混双1/8决赛 、单打第2轮1</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20250930150500 +0800" stop="20250930163000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20250930153000 +0800" stop="20250930163000 +0800">
         <title lang="zh">实况录像-2025年世界男排锦标赛 半决赛  2</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20250930163000 +0800" stop="20250930170000 +0800">
@@ -877,13 +877,13 @@
         <title lang="zh">星推荐-2025年9月-30</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250930192755 +0800" stop="20250930193000 +0800">
-        <title lang="zh">本集提要-沉默的荣耀-1/39</title>
+        <title lang="zh">本集提要-沉默的荣耀-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250930193000 +0800" stop="20250930202545 +0800">
-        <title lang="zh">沉默的荣耀1/39</title>
+        <title lang="zh">沉默的荣耀第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250930202545 +0800" stop="20250930203045 +0800">
-        <title lang="zh">本集提要-沉默的荣耀-2/39</title>
+        <title lang="zh">本集提要-沉默的荣耀-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20250930203045 +0800" stop="20250930212435 +0800">
         <title lang="zh">沉默的荣耀2/39</title>
@@ -5613,7 +5613,7 @@
     <programme channel="上海新闻综合" start="20250930230000 +0800" stop="20250930232500 +0800">
         <title lang="zh">东方110</title>
     </programme>
-    <programme channel="上海新闻综合" start="20250930232500 +0800" stop="20251001000800 +0800">
+    <programme channel="上海新闻综合" start="20250930232500 +0800" stop="20251001000600 +0800">
         <title lang="zh">36集连续剧：淬火丹心（17）</title>
     </programme>
     <channel id="上视东方影视">
@@ -5691,7 +5691,7 @@
     <programme channel="上视东方影视" start="20250930221000 +0800" stop="20250930230000 +0800">
         <title lang="zh">32集连续剧：问苍茫（12）</title>
     </programme>
-    <programme channel="上视东方影视" start="20250930230000 +0800" stop="20251001000400 +0800">
+    <programme channel="上视东方影视" start="20250930230000 +0800" stop="20251001000200 +0800">
         <title lang="zh">37集连续剧：潜行者（28）</title>
     </programme>
     <channel id="上海第一财经">
@@ -8187,7 +8187,7 @@
     <programme channel="陕西新闻资讯频道" start="20250930230000 +0800" stop="20250930232900 +0800">
         <title lang="zh">陕西新闻联播</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20250930232900 +0800" stop="20251001005900 +0800">
+    <programme channel="陕西新闻资讯频道" start="20250930232900 +0800" stop="20251001000000 +0800">
         <title lang="zh">星光剧场：微笑妈妈 55-56</title>
     </programme>
     <channel id="财富天下">
