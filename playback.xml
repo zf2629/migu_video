@@ -4017,11 +4017,8 @@
     <programme channel="江苏卫视" start="20250930190000 +0800" stop="20250930193300 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="江苏卫视" start="20250930193300 +0800" stop="20250930202000 +0800">
-        <title lang="zh">围猎（7）</title>
-    </programme>
-    <programme channel="江苏卫视" start="20250930202000 +0800" stop="20250930211000 +0800">
-        <title lang="zh">围猎（8）</title>
+    <programme channel="江苏卫视" start="20250930193300 +0800" stop="20250930211000 +0800">
+        <title lang="zh">围猎（7-8）</title>
     </programme>
     <programme channel="江苏卫视" start="20250930211000 +0800" stop="20250930221500 +0800">
         <title lang="zh">最强大脑</title>
